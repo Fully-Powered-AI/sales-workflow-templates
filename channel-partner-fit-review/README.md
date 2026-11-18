@@ -24,7 +24,7 @@ The founder, or whoever owns partnerships, reads it and decides. Finance supplie
 
 - **What the partner sent:** its application, email or presentation, with what it asks for, the customers it names and what it expects to sell.
 - **Your notes from talking to the partner,** including any calls you made to customers it named.
-- **An export of your accounts,** customers and opportunities with the date each first appeared, so the partner's customers can be checked against your records.
+- **An export of your accounts,** customers and opportunities with the date each first appeared, taken from your CRM, so the partner's customers can be checked against your records.
 - **Your economics from finance:** average first-year deal value, cost of delivery, what it costs you to win a deal yourself, your own cost per partner deal and per year for each type, your win rate and your sales cycle.
 - **Your partner programme,** if you have one, and a few facts: the review date, who decides, who handles agreements and what counts as a qualified opportunity.
 
