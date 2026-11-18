@@ -249,4 +249,4 @@ for [sender]. Not sent."
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by Fully Powered AI from the guide it uses for its own outreach. Editorially reviewed. Tried on its invented example in Claude on 9 November 2026, once on the first draft of the instructions and once after they were revised; the record of the second run, with the findings of the first, is kept with the template. Edited after that run, following the editorial review; the record lists the edits. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 9 November 2026. Written by FullyPowered AI from the guide it uses for its own outreach. Editorially reviewed. Tried on its invented example in Claude on 9 November 2026, once on the first draft of the instructions and once after they were revised; the record of the second run, with the findings of the first, is kept with the template. Edited after that run, following the editorial review; the record lists the edits. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
