@@ -1,10 +1,17 @@
 # Win-loss review
 
-Once a quarter your sales lead sees, from the deals you closed, where the losses ended, which kinds of deal you win and lose, what the largest deals show, and which findings rest on enough deals to act on. Actions are proposed in proportion to the evidence, and nothing in your sales system is changed.
+A quarterly read of your closed deals: win rates with counts, where losses ended, and findings marked firm or thin. The sales lead decides the actions.
 
-*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/win-loss-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Win-loss review on our website](https://fullypowered.ai/workflows/win-loss-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-win-loss-review&from=gh-sales-win-loss-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/win-loss-review/?from=gh-sales-win-loss-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/win-loss-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-win-loss-review&from=gh-sales-win-loss-review)*
 
 ## The outcome
 
@@ -49,15 +56,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Sales](https://fullypowered.ai/functions/sales/): the quarterly look back at what was won and lost, done the same careful way every time.
-- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/): counts and rates from your own export, each with its sample size, and no claim beyond what the counts show.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): a firm closes a few dozen engagements a quarter, exactly the scale where a pattern and a coincidence look alike.
-- [Software technology](https://fullypowered.ai/industries/software-technology/): deals come from several lead sources and buyer types, and the cuts show which ones close.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/): an order can be lost on lead time or capacity even when the record says price.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/): bids won and lost are few and large, so knowing how many deals stand behind a finding matters.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/): a company with a few years of closed deals and a sales process worth checking against them.
+- [Sales](https://fullypowered.ai/functions/sales/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-win-loss-review&from=gh-sales-win-loss-review): the quarterly look back at what was won and lost, done the same careful way every time.
+- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-win-loss-review&from=gh-sales-win-loss-review): counts and rates from your own export, each with its sample size, and no claim beyond what the counts show.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-win-loss-review&from=gh-sales-win-loss-review): a firm closes a few dozen engagements a quarter, exactly the scale where a pattern and a coincidence look alike.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-win-loss-review&from=gh-sales-win-loss-review): deals come from several lead sources and buyer types, and the cuts show which ones close.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-win-loss-review&from=gh-sales-win-loss-review): an order can be lost on lead time or capacity even when the record says price.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-win-loss-review&from=gh-sales-win-loss-review): bids won and lost are few and large, so knowing how many deals stand behind a finding matters.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-win-loss-review&from=gh-sales-win-loss-review): a company with a few years of closed deals and a sales process worth checking against them.
 
-It sits beside [Stalled-deal review](https://fullypowered.ai/workflows/stalled-deal-review/), which reads the open pipeline every week, [Objection answers and sales one-pager](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/), which prepares answers to the reasons buyers give, and [Sales call preparation brief](https://fullypowered.ai/workflows/sales-call-preparation-brief/), which carries what the review teaches into the next call.
+It sits beside [Stalled-deal review](https://fullypowered.ai/workflows/stalled-deal-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-win-loss-review&from=gh-sales-win-loss-review), which reads the open pipeline every week, [Objection answers and sales one-pager](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-win-loss-review&from=gh-sales-win-loss-review), which prepares answers to the reasons buyers give, and [Sales call preparation brief](https://fullypowered.ai/workflows/sales-call-preparation-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-win-loss-review&from=gh-sales-win-loss-review), which carries what the review teaches into the next call.
 
 ## What has to change for your company
 
@@ -72,7 +79,7 @@ It sits beside [Stalled-deal review](https://fullypowered.ai/workflows/stalled-d
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example on 9 November 2026 in two runs; the record of the second is published with it. The first run saw part of the example's answer before writing its own, and the session that ran the second had not seen it. The record lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past quarter your sales lead remembers well, plus hard cases written in advance, each with its expected behavior: an export whose column names differ, a quarter with too few deals, a recorded reason a buyer's note contradicts, a small group with a striking win rate, a lost deal with no stage or reason. The sales lead recomputes the figures from the export before anyone relies on them. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on a past quarter your sales lead remembers well, plus hard cases written in advance, each with its expected behavior: an export whose column names differ, a quarter with too few deals, a recorded reason a buyer's note contradicts, a small group with a striking win rate, a lost deal with no stage or reason. The sales lead recomputes the figures from the export before anyone relies on them. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-win-loss-review&from=gh-sales-win-loss-review) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-win-loss-review&from=gh-sales-win-loss-review) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -105,4 +112,4 @@ Testing in your environment means running it on a past quarter your sales lead r
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-win-loss-review&from=gh-sales-win-loss-review).

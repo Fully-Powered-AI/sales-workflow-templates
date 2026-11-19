@@ -1,10 +1,17 @@
 # Bid or no-bid and RFP response plan
 
-Before anyone starts on a response, your bid manager sees every requirement in the request checked against your own evidence, your bid criteria tested and the buyer questions ready. A named person decides whether to bid; then a dated plan says who does what by when.
+Check every requirement against your evidence, test your bid criteria, then get a dated response plan. A named person decides whether to bid.
 
-*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/bid-or-no-bid-and-rfp-response-plan/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Bid or no-bid and RFP response plan on our website](https://fullypowered.ai/workflows/bid-or-no-bid-and-rfp-response-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-bid-or-no-bid-and-rfp-response-plan&from=gh-bid-or-no-bid-and-rfp-response-plan) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/bid-or-no-bid-and-rfp-response-plan/?from=gh-bid-or-no-bid-and-rfp-response-plan)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/bid-or-no-bid-and-rfp-response-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-bid-or-no-bid-and-rfp-response-plan&from=gh-bid-or-no-bid-and-rfp-response-plan)*
 
 ## The outcome
 
@@ -40,12 +47,12 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Sales](https://fullypowered.ai/functions/sales/), which owns the pipeline and decides which requests are worth the team's time.
-- [Procurement and suppliers](https://fullypowered.ai/functions/procurement-and-suppliers/), where the licences, insurance certificates and supplier forms a buyer asks for are usually kept.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where a lost week on a request nobody could win is a week of senior people's time.
-- [Construction](https://fullypowered.ai/industries/construction/), where tenders arrive with fixed deadlines, mandatory certificates and pass-or-fail forms.
-- [Government](https://fullypowered.ai/industries/government/), where public buyers publish strict rules, question windows and late-submission cut-offs.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where requests for proposals arrive regularly and the bid or no-bid habit lives in one person's head.
+- [Sales](https://fullypowered.ai/functions/sales/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-bid-or-no-bid-and-rfp-response-plan&from=gh-bid-or-no-bid-and-rfp-response-plan), which owns the pipeline and decides which requests are worth the team's time.
+- [Procurement and suppliers](https://fullypowered.ai/functions/procurement-and-suppliers/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-bid-or-no-bid-and-rfp-response-plan&from=gh-bid-or-no-bid-and-rfp-response-plan), where the licences, insurance certificates and supplier forms a buyer asks for are usually kept.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-bid-or-no-bid-and-rfp-response-plan&from=gh-bid-or-no-bid-and-rfp-response-plan), where a lost week on a request nobody could win is a week of senior people's time.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-bid-or-no-bid-and-rfp-response-plan&from=gh-bid-or-no-bid-and-rfp-response-plan), where tenders arrive with fixed deadlines, mandatory certificates and pass-or-fail forms.
+- [Government](https://fullypowered.ai/industries/government/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-bid-or-no-bid-and-rfp-response-plan&from=gh-bid-or-no-bid-and-rfp-response-plan), where public buyers publish strict rules, question windows and late-submission cut-offs.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-bid-or-no-bid-and-rfp-response-plan&from=gh-bid-or-no-bid-and-rfp-response-plan), where requests for proposals arrive regularly and the bid or no-bid habit lives in one person's head.
 
 ## What has to change for your company
 
@@ -55,7 +62,7 @@ Write your bid criteria and their limits before the next request arrives, and na
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried once on its invented example in Claude on 9 November 2026; the record of that run is published with it, and lists the edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past requests your bid manager remembers well, plus hard cases written in advance, each with its expected behavior: a must-have with no evidence, a certificate that expires before the deadline, a request that contradicts itself, an owner away on their due date. The bid manager checks every date and every "covered" before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record. To write the answers once the plan exists, see [Sales proposal preparation](https://fullypowered.ai/workflows/sales-proposal-preparation/).
+Testing in your environment means running it on two or three past requests your bid manager remembers well, plus hard cases written in advance, each with its expected behavior: a must-have with no evidence, a certificate that expires before the deadline, a request that contradicts itself, an owner away on their due date. The bid manager checks every date and every "covered" before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-bid-or-no-bid-and-rfp-response-plan&from=gh-bid-or-no-bid-and-rfp-response-plan) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-bid-or-no-bid-and-rfp-response-plan&from=gh-bid-or-no-bid-and-rfp-response-plan) shows the record. To write the answers once the plan exists, see [Sales proposal preparation](https://fullypowered.ai/workflows/sales-proposal-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-bid-or-no-bid-and-rfp-response-plan&from=gh-bid-or-no-bid-and-rfp-response-plan).
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -88,4 +95,4 @@ Testing in your environment means running it on two or three past requests your 
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-bid-or-no-bid-and-rfp-response-plan&from=gh-bid-or-no-bid-and-rfp-response-plan).

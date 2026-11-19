@@ -1,14 +1,59 @@
-# FullyPowered Workflow Templates: Sales
+# AI workflow templates for sales teams
 
-Answer in minutes what used to take weeks. These workflow templates take the preparation that slows a sales team down and give an AI assistant a precise way to do it, with every claim traced to evidence and a person deciding what goes to the buyer.
+FullyPowered Workflow Templates for sales teams turn the AI your company already pays for into a team that knows how the work is done: a sales lead with the weekly pipeline review laid out on one page, an account executive with the deal close plan drafted, step by step, a bid manager with the bid or no-bid check prepared. 14 workflow templates, made to be customized and deployed. All plain Markdown, all free, MIT license.
 
-**These are templates, made to be customized and deployed.** They are examples and a starting point, not a complete list: copy one, change it to fit how your team does the work, and run it in the AI you already pay for.
+We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
-**FullyPowered AI customizes and builds AI workflows that run in ChatGPT, Claude, Copilot and Gemini**, including ones that run several steps. [More examples for sales teams](https://fullypowered.ai/functions/sales/?from=gh-sales) · [Have one built for your team](https://fullypowered.ai/pricing/?from=gh-sales)
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for sales teams](https://fullypowered.ai/functions/sales/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-readme&from=gh-sales-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-readme&from=gh-sales-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-This repository holds 14 workflow templates for sales teams. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
+**Who this is for**
 
-## The workflow templates
+- Owners and CEOs who want the AI they pay for doing the preparation behind every deal.
+- Sales leads who want a pipeline review or call brief their team can run this week.
+- Account executives who get a precise way to prepare and still decide every move.
+
+**What these are for**
+
+- **Your best way of doing it, for the whole team.** One piece of work, written down precisely enough that an assistant prepares it the same way every time.
+- **Work you can check.** Every template says what it needs, what it produces, what it checked and what it could not.
+- **A person decides.** Anything that sends, posts, pays or changes a record waits for someone to approve it.
+- **Tied into your business systems.** A workflow can be designed to pull from the systems your company already runs, and even push data back into them, with guardrails and a person approving. [Browse the Connectors Directory](https://fullypowered.ai/connectors/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-readme&from=gh-sales-readme).
+- **Free, open and portable.** MIT-licensed plain instructions that run in the assistant or agent your team already uses: ChatGPT, Claude, Claude Code, Claude Cowork, Codex, Copilot, Gemini, Grok, Perplexity.
+
+**Quick start**
+
+1. **Prepare for your next call in a few minutes.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat, replace the square brackets with your own notes, and send it. You need no sign-in here and nothing to download.
+
+   ```text
+   You prepare a short brief for me before a sales meeting. Use only what I paste below. If a fact is not there, say so and do not guess. Label anything you infer. Do not send, book or change anything. I decide what to say. Write these sections: Before the call (what we owe, new attendees), The company, Who will be there, History, Promises and questions (ours and theirs), Call plan (one objective, questions, objections), Not verified. Name the date of every source. Today's date: [date]. Meeting: [company, date, time, attendees, stage]. Our facts: [what we sell, price list, approved material]. My notes and emails: [paste]. Public pages: [paste text].
+   ```
+
+2. Read what comes back. It marks what it checked and what is left for you. What comes out: a brief for one call:
+
+   ```text
+   CALL BRIEF: Pinewater Facilities Group
+   Meeting: Thursday 19 November 2026, 10:00, 45 minutes, video call. Stage: proposal.
+   Prepared: Monday 16 November 2026, for Marisol.
+   Built from: meeting details (16 Nov 2026); our facts (undated, read 16 Nov 2026); call notes, 22 Oct 2026; call notes, 5 Nov 2026; email from Odette Karimi, 12 Nov 2026; Page A, "About us" (undated, read 16 Nov 2026); Page B, news post, 2 Nov 2026. Web not searched. Not supplied: account list; local settings (defaults used).
+
+   BEFORE THE CALL
+   1. We owe Lukas an answer: is the pilot fee credited against first-year fees? Promised 5 Nov (call notes, 5 Nov 2026). Asked of the sales lead on 5 Nov; no answer recorded (our facts, read 16 Nov 2026). Lukas wants it before the call (email, 12 Nov 2026). No approved answer supplied. Ask the sales lead.
+   2. New attendee: Priyanka Sethi, "from IT" (email, 12 Nov 2026). No prior notes.
+   3. Sources disagree on how many technicians Pinewater has: 14, or more than 30 (see The company). The pilot outline is sized for five (our facts, read 16 Nov 2026).
+
+   THE COMPANY
+   - Maintains heating, cooling and fire-safety systems for commercial buildings. Founded 2009. 85 employees. (Page A, read 16 Nov 2026)
+   - Opening a second depot in Eastbrook in February 2027, adding ten technicians. (Page B, 2 Nov 2026)
+   ```
+
+3. Stop there. You will know if this is for you. When you want it fitted to your company, or built into your agents, [that is what we do](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-readme&from=gh-sales-readme).
+
+In every workflow a person starts the work, supplies the inputs and decides, and the template prepares and checks.
+
+These are samples and a starting point, made to be changed for how your team sells. Your work may not be listed here, and a workflow can be one step or many, so we can build one for your company from how you already work.
+
+## The sales workflow templates here today
 
 - **[Bid or no-bid and RFP response plan](bid-or-no-bid-and-rfp-response-plan/)**: Before anyone starts on a response, your bid manager sees every requirement in the request checked against your own evidence, your bid criteria tested and the buyer questions ready. A named person decides whether to bid; then a dated plan says who does what by when.
 - **[Channel partner fit review](channel-partner-fit-review/)**: When a referral, reseller or alliance partner approaches, the founder or head of partnerships gets one review: evidence the partner brings customers of its own, the type that evidence supports, a ninety-day plan with signs to go on or stop, and the commission range that still beats selling direct. A person decides.
@@ -43,10 +88,10 @@ Each folder says exactly what was checked and when: who wrote it, that its sourc
 
 ## More workflow templates
 
-The [FullyPowered Workflows Directory](https://fullypowered.ai/workflows/) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
+The [FullyPowered Workflows Directory](https://fullypowered.ai/workflows/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-readme&from=gh-sales-readme) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
 
-For the work these templates come from, by team and by task, see [AI workflow examples for sales teams](https://fullypowered.ai/functions/sales/).
+For the work these templates come from, by team and by task, see [AI workflow examples for sales teams](https://fullypowered.ai/functions/sales/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-readme&from=gh-sales-readme).
 
 ## Licence and credits
 
-MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [FullyPowered AI](https://fullypowered.ai/).
+MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [FullyPowered AI](https://fullypowered.ai/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-readme&from=gh-sales-readme).

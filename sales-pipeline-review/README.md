@@ -1,10 +1,17 @@
 # Sales pipeline review
 
-Each week your sales lead sees the whole open pipeline on one page: value and age by stage, what moved since last week, the deals at risk and coverage against your target. Every figure traces to your export, and the forecast number is left for a person to commit.
+The whole open pipeline on one page each week: value by stage, what moved, deals at risk and coverage. Figures trace to your export; a person commits it.
 
-*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/sales-pipeline-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Sales pipeline review on our website](https://fullypowered.ai/workflows/sales-pipeline-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-pipeline-review&from=gh-sales-sales-pipeline-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/sales-pipeline-review/?from=gh-sales-sales-pipeline-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/sales-pipeline-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-pipeline-review&from=gh-sales-sales-pipeline-review)*
 
 ## The outcome
 
@@ -46,15 +53,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Sales](https://fullypowered.ai/functions/sales/): the weekly look at the whole pipeline, done the same way every time.
-- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/): the pipeline turned into figures someone can check.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): engagements of very different sizes sit side by side, and value by stage tells more than a deal count.
-- [Software technology](https://fullypowered.ai/industries/software-technology/): many deals move through several stages at once, and a weekly bridge shows where value went.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/): large orders with long cycles, where a close date that keeps moving out is the early warning.
-- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/): contract bids pile up near quarter end, and coverage against the target says whether there is enough in play.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): the pipeline has outgrown the sales lead's memory and needs one page that everyone reads the same way.
+- [Sales](https://fullypowered.ai/functions/sales/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-pipeline-review&from=gh-sales-sales-pipeline-review): the weekly look at the whole pipeline, done the same way every time.
+- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-pipeline-review&from=gh-sales-sales-pipeline-review): the pipeline turned into figures someone can check.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-pipeline-review&from=gh-sales-sales-pipeline-review): engagements of very different sizes sit side by side, and value by stage tells more than a deal count.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-pipeline-review&from=gh-sales-sales-pipeline-review): many deals move through several stages at once, and a weekly bridge shows where value went.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-pipeline-review&from=gh-sales-sales-pipeline-review): large orders with long cycles, where a close date that keeps moving out is the early warning.
+- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-pipeline-review&from=gh-sales-sales-pipeline-review): contract bids pile up near quarter end, and coverage against the target says whether there is enough in play.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-pipeline-review&from=gh-sales-sales-pipeline-review): the pipeline has outgrown the sales lead's memory and needs one page that everyone reads the same way.
 
-It sits beside [Stalled-deal review](https://fullypowered.ai/workflows/stalled-deal-review/), which takes the deals flagged here one at a time and reads each against its stage, and [Sales call preparation brief](https://fullypowered.ai/workflows/sales-call-preparation-brief/), which prepares the call where an owner's question gets answered.
+It sits beside [Stalled-deal review](https://fullypowered.ai/workflows/stalled-deal-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-pipeline-review&from=gh-sales-sales-pipeline-review), which takes the deals flagged here one at a time and reads each against its stage, and [Sales call preparation brief](https://fullypowered.ai/workflows/sales-call-preparation-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-pipeline-review&from=gh-sales-sales-pipeline-review), which prepares the call where an owner's question gets answered.
 
 ## What has to change for your company
 
@@ -69,7 +76,7 @@ It sits beside [Stalled-deal review](https://fullypowered.ai/workflows/stalled-d
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, and the record of that run, which replaced an earlier one from the same day after the instructions were revised, is published with the template. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on past weeks your sales lead remembers well, plus hard cases written in advance, each with its expected behavior: an export whose headers differ, a deal with no amount, a deal that disappears between weeks, a close date pushed out, too few closed deals for a rate. The sales lead checks every figure against the exports before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on past weeks your sales lead remembers well, plus hard cases written in advance, each with its expected behavior: an export whose headers differ, a deal with no amount, a deal that disappears between weeks, a close date pushed out, too few closed deals for a rate. The sales lead checks every figure against the exports before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-pipeline-review&from=gh-sales-sales-pipeline-review) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-pipeline-review&from=gh-sales-sales-pipeline-review) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -102,4 +109,4 @@ Testing in your environment means running it on past weeks your sales lead remem
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-pipeline-review&from=gh-sales-sales-pipeline-review).

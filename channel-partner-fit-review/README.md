@@ -1,10 +1,17 @@
 # Channel partner fit review
 
-When a referral, reseller or alliance partner approaches, the founder or head of partnerships gets one review: evidence the partner brings customers of its own, the type that evidence supports, a ninety-day plan with signs to go on or stop, and the commission range that still beats selling direct. A person decides.
+Check a referral, reseller or alliance partner's own customers, the type the evidence supports and the rate that beats selling direct. A person decides.
 
-*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/channel-partner-fit-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Channel partner fit review on our website](https://fullypowered.ai/workflows/channel-partner-fit-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-channel-partner-fit-review&from=gh-sales-channel-partner-fit-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/channel-partner-fit-review/?from=gh-sales-channel-partner-fit-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/channel-partner-fit-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-channel-partner-fit-review&from=gh-sales-channel-partner-fit-review)*
 
 ## The outcome
 
@@ -49,17 +56,17 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Sales](https://fullypowered.ai/functions/sales/): a new route to market weighed on the same terms as your own sales team.
-- [Leadership](https://fullypowered.ai/functions/leadership/): the founder makes a partnership decision on evidence, not on the warmth of a first meeting.
-- [Software technology](https://fullypowered.ai/industries/software-technology/): resellers, consultancies and integrators regularly ask to carry a software product.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): firms that already advise your buyers often offer to introduce or resell.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/): distributors and regional agents ask for margin and territory before they have sold a unit.
-- [Hardware and physical technology](https://fullypowered.ai/industries/hardware-and-physical-technology/): installers and service contractors want to bundle your product with their work.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): partners start to approach once you are visible, and the founder needs a consistent answer.
-- [New business lines](https://fullypowered.ai/situations/new-business-lines/): a partner can be the fastest way into a market you do not yet reach.
-- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/): a weak first partnership can tie up a small team for months, and a strong one can carry its growth.
+- [Sales](https://fullypowered.ai/functions/sales/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-channel-partner-fit-review&from=gh-sales-channel-partner-fit-review): a new route to market weighed on the same terms as your own sales team.
+- [Leadership](https://fullypowered.ai/functions/leadership/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-channel-partner-fit-review&from=gh-sales-channel-partner-fit-review): the founder makes a partnership decision on evidence, not on the warmth of a first meeting.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-channel-partner-fit-review&from=gh-sales-channel-partner-fit-review): resellers, consultancies and integrators regularly ask to carry a software product.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-channel-partner-fit-review&from=gh-sales-channel-partner-fit-review): firms that already advise your buyers often offer to introduce or resell.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-channel-partner-fit-review&from=gh-sales-channel-partner-fit-review): distributors and regional agents ask for margin and territory before they have sold a unit.
+- [Hardware and physical technology](https://fullypowered.ai/industries/hardware-and-physical-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-channel-partner-fit-review&from=gh-sales-channel-partner-fit-review): installers and service contractors want to bundle your product with their work.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-channel-partner-fit-review&from=gh-sales-channel-partner-fit-review): partners start to approach once you are visible, and the founder needs a consistent answer.
+- [New business lines](https://fullypowered.ai/situations/new-business-lines/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-channel-partner-fit-review&from=gh-sales-channel-partner-fit-review): a partner can be the fastest way into a market you do not yet reach.
+- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-channel-partner-fit-review&from=gh-sales-channel-partner-fit-review): a weak first partnership can tie up a small team for months, and a strong one can carry its growth.
 
-It sits beside [Referral programme design](https://fullypowered.ai/workflows/referral-programme-design/), which turns recommendations from your own customers into a habit, [Prospect list by role and firm type](https://fullypowered.ai/workflows/prospect-list-by-role-and-firm-type/), which finds the firms you approach yourself, and [Discount request review](https://fullypowered.ai/workflows/discount-request-review/), which checks a price below list against your own policy.
+It sits beside [Referral programme design](https://fullypowered.ai/workflows/referral-programme-design/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-channel-partner-fit-review&from=gh-sales-channel-partner-fit-review), which turns recommendations from your own customers into a habit, [Prospect list by role and firm type](https://fullypowered.ai/workflows/prospect-list-by-role-and-firm-type/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-channel-partner-fit-review&from=gh-sales-channel-partner-fit-review), which finds the firms you approach yourself, and [Discount request review](https://fullypowered.ai/workflows/discount-request-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-channel-partner-fit-review&from=gh-sales-channel-partner-fit-review), which checks a price below list against your own policy.
 
 ## What has to change for your company
 
@@ -74,7 +81,7 @@ It sits beside [Referral programme design](https://fullypowered.ai/workflows/ref
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026 by a model that did not write it. After an independent review the same day, the example was corrected so that its referral figures follow the template's own rule for marketing money, the template was made more exact about rounding, how sellers and a customer's market are confirmed, and the order of the questions, and it was tried again on the example. That second run was made by the model that wrote the revision, so it is not independent. A second independent review that day found eight minor points; the template was made exact on how to record a customer who could not be reached, a type the organization does not offer, a written commitment from one person and the partner's named contact, and it was tried a third time on the example by the model that made those changes, so that run is not independent either. The record of the third run, with what the earlier runs found and what was changed after each, is published with the template. It has not yet been tested in a client environment, or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past approaches your founder remembers well, plus hard cases written in advance, each with its expected behavior: a partner that names customers you already have, a claim nobody has confirmed, an ask that sits above the range, a partner that gives no expected volume, agreement terms tucked into the application. Finance checks every figure before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on two or three past approaches your founder remembers well, plus hard cases written in advance, each with its expected behavior: a partner that names customers you already have, a claim nobody has confirmed, an ask that sits above the range, a partner that gives no expected volume, agreement terms tucked into the application. Finance checks every figure before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-channel-partner-fit-review&from=gh-sales-channel-partner-fit-review) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-channel-partner-fit-review&from=gh-sales-channel-partner-fit-review) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -101,10 +108,10 @@ Testing in your environment means running it on two or three past approaches you
 
 ## Related workflow templates
 
-- [Referral programme design](https://fullypowered.ai/workflows/referral-programme-design/)
+- [Referral programme design](https://fullypowered.ai/workflows/referral-programme-design/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-channel-partner-fit-review&from=gh-sales-channel-partner-fit-review)
 - [Prospect list by role and firm type](../prospect-list-by-role-and-firm-type/)
 - [Discount request review](../discount-request-review/)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-channel-partner-fit-review&from=gh-sales-channel-partner-fit-review).

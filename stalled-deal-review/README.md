@@ -1,10 +1,17 @@
 # Stalled-deal review
 
-Your sales lead sees, from the record alone, which open deals have stopped moving, what each one's stage still lacks and whose move it is, and where every recent no ended and why. Nothing in your sales system is changed; corrections are proposed for a person to make.
+See which open deals have stopped moving, what each stage still lacks and whose move it is, plus where every no ended. A person corrects the record.
 
-*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/stalled-deal-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Stalled-deal review on our website](https://fullypowered.ai/workflows/stalled-deal-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-stalled-deal-review&from=gh-sales-stalled-deal-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/stalled-deal-review/?from=gh-sales-stalled-deal-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/stalled-deal-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-stalled-deal-review&from=gh-sales-stalled-deal-review)*
 
 ## The outcome
 
@@ -43,16 +50,16 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Sales](https://fullypowered.ai/functions/sales/): the weekly look at what is stuck, done the same careful way every time.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): engagements wait on a partner's sign-off or a client's budget cycle, and a quiet deal is easy to miss.
-- [Software technology](https://fullypowered.ai/industries/software-technology/): deals pass through several stages and several people on the buyer's side, each a place to stall.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/): buying decisions wait on capital budgets and plant schedules, so knowing whose move it is matters.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/): proposals sit with the client's board or funding body, and the firm needs to know which ones are still alive.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): the pipeline outgrows what the sales lead can hold in their head.
+- [Sales](https://fullypowered.ai/functions/sales/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-stalled-deal-review&from=gh-sales-stalled-deal-review): the weekly look at what is stuck, done the same careful way every time.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-stalled-deal-review&from=gh-sales-stalled-deal-review): engagements wait on a partner's sign-off or a client's budget cycle, and a quiet deal is easy to miss.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-stalled-deal-review&from=gh-sales-stalled-deal-review): deals pass through several stages and several people on the buyer's side, each a place to stall.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-stalled-deal-review&from=gh-sales-stalled-deal-review): buying decisions wait on capital budgets and plant schedules, so knowing whose move it is matters.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-stalled-deal-review&from=gh-sales-stalled-deal-review): proposals sit with the client's board or funding body, and the firm needs to know which ones are still alive.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-stalled-deal-review&from=gh-sales-stalled-deal-review): the pipeline outgrows what the sales lead can hold in their head.
 
-It sits beside [Sales call preparation brief](https://fullypowered.ai/workflows/sales-call-preparation-brief/), which prepares the meeting where the stall's question gets asked, [Objection answers and sales one-pager](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/), which prepares the answer when a stalled buyer pushes back, and [Sales proposal preparation](https://fullypowered.ai/workflows/sales-proposal-preparation/), which drafts the proposal a deal at the proposal stage is waiting on.
+It sits beside [Sales call preparation brief](https://fullypowered.ai/workflows/sales-call-preparation-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-stalled-deal-review&from=gh-sales-stalled-deal-review), which prepares the meeting where the stall's question gets asked, [Objection answers and sales one-pager](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-stalled-deal-review&from=gh-sales-stalled-deal-review), which prepares the answer when a stalled buyer pushes back, and [Sales proposal preparation](https://fullypowered.ai/workflows/sales-proposal-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-stalled-deal-review&from=gh-sales-stalled-deal-review), which drafts the proposal a deal at the proposal stage is waiting on.
 
-Two sales workflow templates read the same record for different questions. [Sales pipeline review](https://fullypowered.ai/workflows/sales-pipeline-review/) shows the whole open pipeline each week, its value, age and coverage; this review looks only at the deals that have stopped and asks why. [Win-loss review](https://fullypowered.ai/workflows/win-loss-review/) reads a quarter of closed deals for patterns that hold across many of them; this review logs each recent no on its own, before anyone draws a lesson.
+Two sales workflow templates read the same record for different questions. [Sales pipeline review](https://fullypowered.ai/workflows/sales-pipeline-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-stalled-deal-review&from=gh-sales-stalled-deal-review) shows the whole open pipeline each week, its value, age and coverage; this review looks only at the deals that have stopped and asks why. [Win-loss review](https://fullypowered.ai/workflows/win-loss-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-stalled-deal-review&from=gh-sales-stalled-deal-review) reads a quarter of closed deals for patterns that hold across many of them; this review logs each recent no on its own, before anyone draws a lesson.
 
 ## What has to change for your company
 
@@ -66,7 +73,7 @@ Two sales workflow templates read the same record for different questions. [Sale
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026 in two runs, with the instructions revised between them; the record of the second run is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on past weeks your sales lead remembers well, plus hard cases written in advance, each with its expected behavior: an export whose column names differ, a next step with no date, a buyer who said they would come back later, a lost deal with no stage, a note that contradicts the recorded reason. The sales lead checks every line against the record before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on past weeks your sales lead remembers well, plus hard cases written in advance, each with its expected behavior: an export whose column names differ, a next step with no date, a buyer who said they would come back later, a lost deal with no stage, a note that contradicts the recorded reason. The sales lead checks every line against the record before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-stalled-deal-review&from=gh-sales-stalled-deal-review) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-stalled-deal-review&from=gh-sales-stalled-deal-review) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -101,4 +108,4 @@ Testing in your environment means running it on past weeks your sales lead remem
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-stalled-deal-review&from=gh-sales-stalled-deal-review).

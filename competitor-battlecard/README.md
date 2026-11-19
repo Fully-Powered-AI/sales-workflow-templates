@@ -1,10 +1,17 @@
 # Competitor battlecard
 
-Your salespeople get one page on one named competitor: where it is strong, where you are stronger and the proof, what to say when it comes up, and the questions to ask. Nothing about the competitor goes on the card without a dated source; anything unsupported is held back for the approver.
+Give salespeople one page on one named competitor: where it is strong, where you win and what to say. Each line has a dated source; an approver decides.
 
-*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/competitor-battlecard/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Competitor battlecard on our website](https://fullypowered.ai/workflows/competitor-battlecard/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-competitor-battlecard&from=gh-sales-competitor-battlecard) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/competitor-battlecard/?from=gh-sales-competitor-battlecard)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/competitor-battlecard/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-competitor-battlecard&from=gh-sales-competitor-battlecard)*
 
 ## The outcome
 
@@ -20,7 +27,7 @@ The person who starts it names the competitor and supplies the evidence. The app
 
 ## What they supply
 
-- **The competitor's pages,** saved with the date of each: homepage, pricing and product pages, or the observed lines of a [competitor profile from public pages](https://fullypowered.ai/workflows/competitor-profile-from-public-pages/).
+- **The competitor's pages,** saved with the date of each: homepage, pricing and product pages, or the observed lines of a [competitor profile from public pages](https://fullypowered.ai/workflows/competitor-profile-from-public-pages/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-competitor-battlecard&from=gh-sales-competitor-battlecard).
 - **Your fact sheet,** with its date: what you sell, prices and what each includes, what you do not offer, and the proof you may share with prospects.
 - **Notes from deals** where the competitor came up, with what buyers said in their own words.
 - **An export of closed deals** that name the competitor, if you want the head-to-head count.
@@ -45,13 +52,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Sales](https://fullypowered.ai/functions/sales/): the page a salesperson checks before a call where the competitor's name will come up.
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/): sales material kept accurate, dated and consistent with what the competitor actually publishes.
-- [Software technology](https://fullypowered.ai/industries/software-technology/): competitors publish plans and prices and change them often, so dated sources matter.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): buyers compare firms on trust, and one overstated line about a rival can lose the engagement.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): new salespeople meet competitors before they have heard every story, and the card gives them the same footing as your best seller.
+- [Sales](https://fullypowered.ai/functions/sales/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-competitor-battlecard&from=gh-sales-competitor-battlecard): the page a salesperson checks before a call where the competitor's name will come up.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-competitor-battlecard&from=gh-sales-competitor-battlecard): sales material kept accurate, dated and consistent with what the competitor actually publishes.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-competitor-battlecard&from=gh-sales-competitor-battlecard): competitors publish plans and prices and change them often, so dated sources matter.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-competitor-battlecard&from=gh-sales-competitor-battlecard): buyers compare firms on trust, and one overstated line about a rival can lose the engagement.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-competitor-battlecard&from=gh-sales-competitor-battlecard): new salespeople meet competitors before they have heard every story, and the card gives them the same footing as your best seller.
 
-It sits beside [Competitor profile from public pages](https://fullypowered.ai/workflows/competitor-profile-from-public-pages/), which gathers the evidence the card draws on, and [Objection answers and sales one-pager](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/), which prepares answers and a leave-behind for one particular call.
+It sits beside [Competitor profile from public pages](https://fullypowered.ai/workflows/competitor-profile-from-public-pages/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-competitor-battlecard&from=gh-sales-competitor-battlecard), which gathers the evidence the card draws on, and [Objection answers and sales one-pager](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-competitor-battlecard&from=gh-sales-competitor-battlecard), which prepares answers and a leave-behind for one particular call.
 
 ## What has to change for your company
 
@@ -66,7 +73,7 @@ It sits beside [Competitor profile from public pages](https://fullypowered.ai/wo
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example on 9 November 2026 in two runs; the record of the second is published with it, and lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a competitor your team already knows well, plus hard cases written in advance, each with its expected behavior: a pricing page saved months ago, a rumour in a salesperson's note, a figure only one buyer reported, a case study with no permission on record. The approver checks every line against its source before anyone relies on the card. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on a competitor your team already knows well, plus hard cases written in advance, each with its expected behavior: a pricing page saved months ago, a rumour in a salesperson's note, a figure only one buyer reported, a case study with no permission on record. The approver checks every line against its source before anyone relies on the card. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-competitor-battlecard&from=gh-sales-competitor-battlecard) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-competitor-battlecard&from=gh-sales-competitor-battlecard) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -93,10 +100,10 @@ Testing in your environment means running it on a competitor your team already k
 
 ## Related workflow templates
 
-- [Competitor profile from public pages](https://fullypowered.ai/workflows/competitor-profile-from-public-pages/)
+- [Competitor profile from public pages](https://fullypowered.ai/workflows/competitor-profile-from-public-pages/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-competitor-battlecard&from=gh-sales-competitor-battlecard)
 - [Objection answers and sales one-pager](../objection-answers-and-sales-one-pager/)
 - [Sales call preparation brief](../sales-call-preparation-brief/)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-competitor-battlecard&from=gh-sales-competitor-battlecard).

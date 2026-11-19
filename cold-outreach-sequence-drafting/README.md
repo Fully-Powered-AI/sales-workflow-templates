@@ -1,10 +1,17 @@
 # Cold outreach sequence drafting
 
-Your outreach reads like you wrote it on your best day: a first note and its follow-ups, drafted in your own voice, where every line about the prospect traces to a dated fact and every line about your company traces to facts you supplied. You read it, edit it and send it yourself.
+Draft a first note and its follow-ups in your own voice, every line traced to a fact you supplied. You read, edit and send it yourself.
 
-*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/cold-outreach-sequence-drafting/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Cold outreach sequence drafting on our website](https://fullypowered.ai/workflows/cold-outreach-sequence-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-cold-outreach-sequence-drafting&from=gh-sales-cold-outreach-sequence-drafting) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/cold-outreach-sequence-drafting/?from=gh-sales-cold-outreach-sequence-drafting)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/cold-outreach-sequence-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-cold-outreach-sequence-drafting&from=gh-sales-cold-outreach-sequence-drafting)*
 
 ## The outcome
 
@@ -41,11 +48,11 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Sales](https://fullypowered.ai/functions/sales/): the first words a prospect reads from you, written by the person who will take the call.
-- [Advertising and lead generation](https://fullypowered.ai/functions/advertising-and-lead-generation/): a prospect list becomes conversations, one considered note at a time.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): partners sell their own expertise, and a careless claim costs trust that took years to earn.
-- [Software technology](https://fullypowered.ai/industries/software-technology/): founders write to buyers who receive a great deal of outreach and delete most of it.
-- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/): few clients to cite yet, so the note leans on what is true today.
+- [Sales](https://fullypowered.ai/functions/sales/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-cold-outreach-sequence-drafting&from=gh-sales-cold-outreach-sequence-drafting): the first words a prospect reads from you, written by the person who will take the call.
+- [Advertising and lead generation](https://fullypowered.ai/functions/advertising-and-lead-generation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-cold-outreach-sequence-drafting&from=gh-sales-cold-outreach-sequence-drafting): a prospect list becomes conversations, one considered note at a time.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-cold-outreach-sequence-drafting&from=gh-sales-cold-outreach-sequence-drafting): partners sell their own expertise, and a careless claim costs trust that took years to earn.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-cold-outreach-sequence-drafting&from=gh-sales-cold-outreach-sequence-drafting): founders write to buyers who receive a great deal of outreach and delete most of it.
+- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-cold-outreach-sequence-drafting&from=gh-sales-cold-outreach-sequence-drafting): few clients to cite yet, so the note leans on what is true today.
 
 ## What has to change for your company
 
@@ -59,7 +66,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template from the guide it uses for its own outreach. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, once on the first draft of the instructions and once after they were revised, and the record of the second run, with the findings of the first, is published with the template. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on prospects you know well, plus hard cases written in advance, each with its expected behavior: a prospect with no usable facts, a request to add a result you cannot support, a client named without permission. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on prospects you know well, plus hard cases written in advance, each with its expected behavior: a prospect with no usable facts, a request to add a result you cannot support, a client named without permission. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-cold-outreach-sequence-drafting&from=gh-sales-cold-outreach-sequence-drafting) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-cold-outreach-sequence-drafting&from=gh-sales-cold-outreach-sequence-drafting) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -87,8 +94,8 @@ Testing in your environment means running it on prospects you know well, plus ha
 ## Related workflow templates
 
 - [Sales proposal preparation](../sales-proposal-preparation/)
-- [Account handoff](https://fullypowered.ai/workflows/account-handoff/)
+- [Account handoff](https://fullypowered.ai/workflows/account-handoff/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-cold-outreach-sequence-drafting&from=gh-sales-cold-outreach-sequence-drafting)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-cold-outreach-sequence-drafting&from=gh-sales-cold-outreach-sequence-drafting).

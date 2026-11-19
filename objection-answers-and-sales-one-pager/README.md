@@ -1,10 +1,17 @@
 # Objection answers and sales one-pager
 
-Walk into the call with an answer for every objection you expect, each with its honest limit and the proof behind it, and one page to leave behind. Everything is built from the facts you supply, so nothing on the page is a claim you cannot stand behind.
+Prepare an answer for every sales objection, each with its honest limit and proof, plus a one-page leave-behind. A person approves and sends it.
 
-*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Objection answers and sales one-pager on our website](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-objection-answers-and-sales-one-pager&from=gh-objection-answers-and-sales-one-pager) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/?from=gh-objection-answers-and-sales-one-pager)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-objection-answers-and-sales-one-pager&from=gh-objection-answers-and-sales-one-pager)*
 
 ## The outcome
 
@@ -40,14 +47,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Sales](https://fullypowered.ai/functions/sales/): the preparation before a call, done the same careful way every time.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): the buyer is weighing trust, and an overstated answer costs the engagement.
-- [Software technology](https://fullypowered.ai/industries/software-technology/): the same questions on price, fit and security come up on almost every deal.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/): pitches lean on past work, and each example needs the client's permission.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/): buyers compare you with the supplier they already have, line by line.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): new salespeople take calls before they have heard every objection themselves.
+- [Sales](https://fullypowered.ai/functions/sales/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-objection-answers-and-sales-one-pager&from=gh-objection-answers-and-sales-one-pager): the preparation before a call, done the same careful way every time.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-objection-answers-and-sales-one-pager&from=gh-objection-answers-and-sales-one-pager): the buyer is weighing trust, and an overstated answer costs the engagement.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-objection-answers-and-sales-one-pager&from=gh-objection-answers-and-sales-one-pager): the same questions on price, fit and security come up on almost every deal.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-objection-answers-and-sales-one-pager&from=gh-objection-answers-and-sales-one-pager): pitches lean on past work, and each example needs the client's permission.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-objection-answers-and-sales-one-pager&from=gh-objection-answers-and-sales-one-pager): buyers compare you with the supplier they already have, line by line.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-objection-answers-and-sales-one-pager&from=gh-objection-answers-and-sales-one-pager): new salespeople take calls before they have heard every objection themselves.
 
-It sits beside two other sales workflow templates. [Sales call preparation brief](https://fullypowered.ai/workflows/sales-call-preparation-brief/) prepares the whole meeting: who will be there, what has been promised and what is still open, with the objections raised listed. This workflow template takes those objections and writes the answers and the page to leave behind. [Sales proposal preparation](https://fullypowered.ai/workflows/sales-proposal-preparation/) prepares the written proposal that follows the conversation.
+It sits beside two other sales workflow templates. [Sales call preparation brief](https://fullypowered.ai/workflows/sales-call-preparation-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-objection-answers-and-sales-one-pager&from=gh-objection-answers-and-sales-one-pager) prepares the whole meeting: who will be there, what has been promised and what is still open, with the objections raised listed. This workflow template takes those objections and writes the answers and the page to leave behind. [Sales proposal preparation](https://fullypowered.ai/workflows/sales-proposal-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-objection-answers-and-sales-one-pager&from=gh-objection-answers-and-sales-one-pager) prepares the written proposal that follows the conversation.
 
 ## What has to change for your company
 
@@ -62,7 +69,7 @@ It sits beside two other sales workflow templates. [Sales call preparation brief
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, and the record of that run, with what it got wrong, is published with the template. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on calls you have already had, plus hard cases written in advance, each with its expected behavior: an objection your facts cannot answer, a buyer quoting a competitor's price, a customer named without permission, a conclusion your facts do not state, a real gap where the right answer is no. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on calls you have already had, plus hard cases written in advance, each with its expected behavior: an objection your facts cannot answer, a buyer quoting a competitor's price, a customer named without permission, a conclusion your facts do not state, a real gap where the right answer is no. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-objection-answers-and-sales-one-pager&from=gh-objection-answers-and-sales-one-pager) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-objection-answers-and-sales-one-pager&from=gh-objection-answers-and-sales-one-pager) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -91,9 +98,9 @@ Testing in your environment means running it on calls you have already had, plus
 
 - [Sales proposal preparation](../sales-proposal-preparation/)
 - [Sales call preparation brief](../sales-call-preparation-brief/)
-- [Inquiry handoff](https://fullypowered.ai/workflows/inquiry-handoff/)
-- [Account handoff](https://fullypowered.ai/workflows/account-handoff/)
+- [Inquiry handoff](https://fullypowered.ai/workflows/inquiry-handoff/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-objection-answers-and-sales-one-pager&from=gh-objection-answers-and-sales-one-pager)
+- [Account handoff](https://fullypowered.ai/workflows/account-handoff/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-objection-answers-and-sales-one-pager&from=gh-objection-answers-and-sales-one-pager)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-objection-answers-and-sales-one-pager&from=gh-objection-answers-and-sales-one-pager).

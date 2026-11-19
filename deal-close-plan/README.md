@@ -1,10 +1,17 @@
 # Deal close plan
 
-Your account executive holds one late-stage deal on two pages: the buyer's case for buying now, counted from the buyer's own figures, and a dated plan of every step to signature with its owner on each side. The seller decides what the buyer sees; nothing reaches the sales system without approval.
+Hold one late-stage deal on two pages: the buyer's case for buying now and a dated plan to signature. The seller decides what the buyer sees.
 
-*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/deal-close-plan/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Deal close plan on our website](https://fullypowered.ai/workflows/deal-close-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-deal-close-plan&from=gh-sales-deal-close-plan) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/deal-close-plan/?from=gh-sales-deal-close-plan)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/deal-close-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-deal-close-plan&from=gh-sales-deal-close-plan)*
 
 ## The outcome
 
@@ -39,15 +46,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Sales](https://fullypowered.ai/functions/sales/): the last stretch of a deal, run the same disciplined way every time.
-- [Software technology](https://fullypowered.ai/industries/software-technology/): late-stage deals pass a security review, a budget owner and procurement, each with its own clock.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): a partner's sign-off and the client's purchasing process decide when an engagement can start.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/): capital budgets, plant schedules and supplier setup all sit between a yes and a signature.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/): a client's board or funding body sets dates the plan has to respect.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): larger deals bring more people and more steps than one person can track in their head.
-- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/): a founder closing the first big customers needs a plan that looks as organized as the buyer's own process.
+- [Sales](https://fullypowered.ai/functions/sales/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-deal-close-plan&from=gh-sales-deal-close-plan): the last stretch of a deal, run the same disciplined way every time.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-deal-close-plan&from=gh-sales-deal-close-plan): late-stage deals pass a security review, a budget owner and procurement, each with its own clock.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-deal-close-plan&from=gh-sales-deal-close-plan): a partner's sign-off and the client's purchasing process decide when an engagement can start.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-deal-close-plan&from=gh-sales-deal-close-plan): capital budgets, plant schedules and supplier setup all sit between a yes and a signature.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-deal-close-plan&from=gh-sales-deal-close-plan): a client's board or funding body sets dates the plan has to respect.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-deal-close-plan&from=gh-sales-deal-close-plan): larger deals bring more people and more steps than one person can track in their head.
+- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-deal-close-plan&from=gh-sales-deal-close-plan): a founder closing the first big customers needs a plan that looks as organized as the buyer's own process.
 
-It sits beside [Stalled-deal review](https://fullypowered.ai/workflows/stalled-deal-review/), which reads the whole pipeline for deals that have stopped moving; this plan works on one deal that is moving and needs a date. [Sales proposal preparation](https://fullypowered.ai/workflows/sales-proposal-preparation/) writes the proposal this plan builds on, and [Discount request review](https://fullypowered.ai/workflows/discount-request-review/) prepares the decision when the buyer asks for a lower price.
+It sits beside [Stalled-deal review](https://fullypowered.ai/workflows/stalled-deal-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-deal-close-plan&from=gh-sales-deal-close-plan), which reads the whole pipeline for deals that have stopped moving; this plan works on one deal that is moving and needs a date. [Sales proposal preparation](https://fullypowered.ai/workflows/sales-proposal-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-deal-close-plan&from=gh-sales-deal-close-plan) writes the proposal this plan builds on, and [Discount request review](https://fullypowered.ai/workflows/discount-request-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-deal-close-plan&from=gh-sales-deal-close-plan) prepares the decision when the buyer asks for a lower price.
 
 ## What has to change for your company
 
@@ -62,7 +69,7 @@ It sits beside [Stalled-deal review](https://fullypowered.ai/workflows/stalled-d
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. The points that run found open, and a few raised by the independent review after it, were settled the same day without a rerun; the record lists them and says where the recorded output differs from the rules as they now stand. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three deals your sales lead remembers well, plus hard cases written in advance, each with its expected behavior: a target date that cannot be met, a buyer cost with no target, a step nobody gave a length for, closed days in the middle of the plan, a buyer owner nobody has named. The account executive checks every date and every sum before anything reaches the buyer. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on two or three deals your sales lead remembers well, plus hard cases written in advance, each with its expected behavior: a target date that cannot be met, a buyer cost with no target, a step nobody gave a length for, closed days in the middle of the plan, a buyer owner nobody has named. The account executive checks every date and every sum before anything reaches the buyer. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-deal-close-plan&from=gh-sales-deal-close-plan) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-deal-close-plan&from=gh-sales-deal-close-plan) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -95,4 +102,4 @@ Testing in your environment means running it on two or three deals your sales le
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-deal-close-plan&from=gh-sales-deal-close-plan).

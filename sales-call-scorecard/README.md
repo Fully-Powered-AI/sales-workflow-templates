@@ -1,10 +1,17 @@
 # Sales call scorecard
 
-After a sales call, your sales lead sees how it went against your team's own criteria, each point backed by the words actually said, where the call left the deal, and one focus for the next call. It reviews a call, never a person, and gives no score for anyone's file.
+Review a sales call against your own criteria, with the words actually said behind each point and one focus for next time. A person coaches; no score.
 
-*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/sales-call-scorecard/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Sales call scorecard on our website](https://fullypowered.ai/workflows/sales-call-scorecard/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-call-scorecard&from=gh-sales-sales-call-scorecard) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/sales-call-scorecard/?from=gh-sales-sales-call-scorecard)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/sales-call-scorecard/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-call-scorecard&from=gh-sales-sales-call-scorecard)*
 
 ## The outcome
 
@@ -48,15 +55,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Sales](https://fullypowered.ai/functions/sales/): coaching on real calls, done the same way every time and against the same written standard.
-- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/): account reviews and renewal conversations deserve the same careful look as new business.
-- [Software technology](https://fullypowered.ai/industries/software-technology/): discovery calls and demos run every week, and every one can be recorded and reviewed.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): partners and business developers learn faster from their own conversations than from a training deck.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/): agencies pitching new clients can see whether the brief they needed was actually heard.
-- [Insurance](https://fullypowered.ai/industries/insurance/): brokers and account teams talk to clients constantly, and good questions decide what gets placed.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): when new salespeople join faster than the sales lead can sit in on their calls.
+- [Sales](https://fullypowered.ai/functions/sales/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-call-scorecard&from=gh-sales-sales-call-scorecard): coaching on real calls, done the same way every time and against the same written standard.
+- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-call-scorecard&from=gh-sales-sales-call-scorecard): account reviews and renewal conversations deserve the same careful look as new business.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-call-scorecard&from=gh-sales-sales-call-scorecard): discovery calls and demos run every week, and every one can be recorded and reviewed.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-call-scorecard&from=gh-sales-sales-call-scorecard): partners and business developers learn faster from their own conversations than from a training deck.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-call-scorecard&from=gh-sales-sales-call-scorecard): agencies pitching new clients can see whether the brief they needed was actually heard.
+- [Insurance](https://fullypowered.ai/industries/insurance/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-call-scorecard&from=gh-sales-sales-call-scorecard): brokers and account teams talk to clients constantly, and good questions decide what gets placed.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-call-scorecard&from=gh-sales-sales-call-scorecard): when new salespeople join faster than the sales lead can sit in on their calls.
 
-It sits beside [Sales call preparation brief](https://fullypowered.ai/workflows/sales-call-preparation-brief/), which sets the goal the scorecard checks, [Stalled-deal review](https://fullypowered.ai/workflows/stalled-deal-review/), which looks at deals that stop moving, and [Objection answers and sales one-pager](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/), which prepares answers for the concerns the scorecard finds.
+It sits beside [Sales call preparation brief](https://fullypowered.ai/workflows/sales-call-preparation-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-call-scorecard&from=gh-sales-sales-call-scorecard), which sets the goal the scorecard checks, [Stalled-deal review](https://fullypowered.ai/workflows/stalled-deal-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-call-scorecard&from=gh-sales-sales-call-scorecard), which looks at deals that stop moving, and [Objection answers and sales one-pager](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-call-scorecard&from=gh-sales-sales-call-scorecard), which prepares answers for the concerns the scorecard finds.
 
 ## What has to change for your company
 
@@ -71,7 +78,7 @@ It sits beside [Sales call preparation brief](https://fullypowered.ai/workflows/
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried once on its invented example in Claude on 9 November 2026; the record of that run is published with it, and lists the clarifications made afterward that have not been run again. That run did not reach the stop conditions or the path for notes without a transcript. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a few past calls your sales lead remembers well, plus hard cases written in advance, each with its expected behavior: a transcript with generic speaker labels, an answer lost in an inaudible stretch, notes that say nothing about the next step, a salesperson who supplies the buyer's cost, a request for a score out of ten. The sales lead checks every quotation against the call before anyone relies on the scorecard. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on a few past calls your sales lead remembers well, plus hard cases written in advance, each with its expected behavior: a transcript with generic speaker labels, an answer lost in an inaudible stretch, notes that say nothing about the next step, a salesperson who supplies the buyer's cost, a request for a score out of ten. The sales lead checks every quotation against the call before anyone relies on the scorecard. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-call-scorecard&from=gh-sales-sales-call-scorecard) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-call-scorecard&from=gh-sales-sales-call-scorecard) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -104,4 +111,4 @@ Testing in your environment means running it on a few past calls your sales lead
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-call-scorecard&from=gh-sales-sales-call-scorecard).

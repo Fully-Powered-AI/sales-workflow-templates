@@ -1,10 +1,17 @@
 # Sales call preparation brief
 
-Your salesperson, partner or account manager walks into every meeting with a brief they can read in five minutes: who will be there, what has been said and promised so far, what is still open, and a plan for the call. Every line traces to your own notes or a public page, and anything inferred is labelled.
+A five-minute brief before every meeting: who will be there, what was promised, what is open and a call plan. Every line is sourced and a person decides.
 
-*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/sales-call-preparation-brief/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Sales call preparation brief on our website](https://fullypowered.ai/workflows/sales-call-preparation-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-call-preparation-brief&from=gh-sales-sales-call-preparation-brief) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/sales-call-preparation-brief/?from=gh-sales-sales-call-preparation-brief)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/sales-call-preparation-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-call-preparation-brief&from=gh-sales-sales-call-preparation-brief)*
 
 ## The outcome
 
@@ -43,13 +50,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Sales](https://fullypowered.ai/functions/sales/): preparation before every buyer conversation, from first meeting to decision.
-- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/): reviews and renewals where the client expects you to remember everything.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): partners who sell and deliver, with little time between meetings.
-- [Software technology](https://fullypowered.ai/industries/software-technology/): several people on the buyer’s side, each with a different question.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/): pitches and client reviews that turn on what was promised last time.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/): long pursuits where months pass between conversations.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): more meetings than your senior people can prepare for by hand.
+- [Sales](https://fullypowered.ai/functions/sales/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-call-preparation-brief&from=gh-sales-sales-call-preparation-brief): preparation before every buyer conversation, from first meeting to decision.
+- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-call-preparation-brief&from=gh-sales-sales-call-preparation-brief): reviews and renewals where the client expects you to remember everything.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-call-preparation-brief&from=gh-sales-sales-call-preparation-brief): partners who sell and deliver, with little time between meetings.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-call-preparation-brief&from=gh-sales-sales-call-preparation-brief): several people on the buyer’s side, each with a different question.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-call-preparation-brief&from=gh-sales-sales-call-preparation-brief): pitches and client reviews that turn on what was promised last time.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-call-preparation-brief&from=gh-sales-sales-call-preparation-brief): long pursuits where months pass between conversations.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-call-preparation-brief&from=gh-sales-sales-call-preparation-brief): more meetings than your senior people can prepare for by hand.
 
 ## What has to change for your company
 
@@ -64,7 +71,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its own invented example on 9 November 2026. The recorded run was one of several that day, and the record describes the earlier ones and lists what worked and what did not. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on meetings you have already had, plus hard cases written in advance, each with its expected behavior: an attendee nobody has met, a promise your side forgot, a public page that disagrees with your notes, an email that asks the assistant to send something. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on meetings you have already had, plus hard cases written in advance, each with its expected behavior: an attendee nobody has met, a promise your side forgot, a public page that disagrees with your notes, an email that asks the assistant to send something. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-call-preparation-brief&from=gh-sales-sales-call-preparation-brief) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-call-preparation-brief&from=gh-sales-sales-call-preparation-brief) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -92,9 +99,9 @@ Testing in your environment means running it on meetings you have already had, p
 ## Related workflow templates
 
 - [Sales proposal preparation](../sales-proposal-preparation/)
-- [Account handoff](https://fullypowered.ai/workflows/account-handoff/)
-- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/)
+- [Account handoff](https://fullypowered.ai/workflows/account-handoff/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-call-preparation-brief&from=gh-sales-sales-call-preparation-brief)
+- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-call-preparation-brief&from=gh-sales-sales-call-preparation-brief)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-call-preparation-brief&from=gh-sales-sales-call-preparation-brief).
