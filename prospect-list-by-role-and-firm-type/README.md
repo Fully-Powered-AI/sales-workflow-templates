@@ -31,7 +31,7 @@ That person supplies the inputs, reads the list and makes every decision about w
 
 - **Your facts.** A short page: what you sell, the firms you serve with their size and region, the associations and people that introduce you, and the firms never to list.
 - **The request.** The kinds of firm and the role to reach in each, your must-have criteria, the signs that should move a firm up, what rules a firm out, and how many days a sign stays current.
-- **The firms.** An export from the tool you already use, a typed list of names and websites, or both. The template lists the column headings it expects and stops to ask when yours differ.
+- **The firms.** An export from the contact-data or prospecting tool you already use, a typed list of names and websites, or both. The template lists the column headings it expects and stops to ask when yours differ.
 - **Your notes from public pages.** The address, the date and what each page said: about pages, postings, news, an association's events.
 - **Optional:** earlier lists, so duplicates and do-not-contact marks carry over, and permission for the assistant to read firms' own public pages itself.
 
