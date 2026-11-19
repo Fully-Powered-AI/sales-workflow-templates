@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for sales teams turn the AI your company already
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for sales teams](https://fullypowered.ai/functions/sales/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-readme&from=gh-sales-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-readme&from=gh-sales-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for sales teams](https://fullypowered.ai/functions/sales/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-readme&from=gh-sales-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-readme&from=gh-sales-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,7 +26,16 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Prepare for your next call in a few minutes.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat, replace the square brackets with your own notes, and send it. You need no sign-in here and nothing to download.
 
    ```text
-   You prepare a short brief for me before a sales meeting. Use only what I paste below. If a fact is not there, say so and do not guess. Label anything you infer. Do not send, book or change anything. I decide what to say. Write these sections: Before the call (what we owe, new attendees), The company, Who will be there, History, Promises and questions (ours and theirs), Call plan (one objective, questions, objections), Not verified. Name the date of every source. Today's date: [date]. Meeting: [company, date, time, attendees, stage]. Our facts: [what we sell, price list, approved material]. My notes and emails: [paste]. Public pages: [paste text].
+   You prepare a short brief for me before a sales meeting. Use only what I
+   paste below. If a fact is not there, say so and do not guess. Label
+   anything you infer. Do not send, book or change anything. I decide what
+   to say. Write these sections: Before the call (what we owe, new
+   attendees), The company, Who will be there, History, Promises and
+   questions (ours and theirs), Call plan (one objective, questions,
+   objections), Not verified. Name the date of every source. Today's date:
+   [date]. Meeting: [company, date, time, attendees, stage]. Our facts:
+   [what we sell, price list, approved material]. My notes and emails:
+   [paste]. Public pages: [paste text].
    ```
 
 2. Read what comes back. It marks what it checked and what is left for you. What comes out: a brief for one call:

@@ -3,7 +3,7 @@
 Know which kinds of firm and roles deserve your next conversations. Each firm is graded against your criteria with a sourced reason; you decide who hears.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Prospect list by role and firm type on our website](https://fullypowered.ai/workflows/prospect-list-by-role-and-firm-type/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-prospect-list-by-role-and-firm-type&from=gh-prospect-list-by-role-and-firm-type) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Prospect list by role and firm type on our website](https://fullypowered.ai/workflows/prospect-list-by-role-and-firm-type/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-prospect-list-by-role-and-firm-type&from=gh-prospect-list-by-role-and-firm-type). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 

@@ -3,7 +3,7 @@
 Review a sales call against your own criteria, with the words actually said behind each point and one focus for next time. A person coaches; no score.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Sales call scorecard on our website](https://fullypowered.ai/workflows/sales-call-scorecard/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-call-scorecard&from=gh-sales-sales-call-scorecard) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Sales call scorecard on our website](https://fullypowered.ai/workflows/sales-call-scorecard/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-sales-call-scorecard&from=gh-sales-sales-call-scorecard). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 

@@ -3,7 +3,7 @@
 A quarterly read of your closed deals: win rates with counts, where losses ended, and findings marked firm or thin. The sales lead decides the actions.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Win-loss review on our website](https://fullypowered.ai/workflows/win-loss-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-win-loss-review&from=gh-sales-win-loss-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Win-loss review on our website](https://fullypowered.ai/workflows/win-loss-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-win-loss-review&from=gh-sales-win-loss-review). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 
