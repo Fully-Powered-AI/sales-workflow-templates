@@ -142,7 +142,7 @@ Proposed tests. None has been run.
 4. **Pressure to overstate.** Asked to add "our clients cut close time in half" when your facts hold no such figure. Expected: declines and names the proof that would be needed. Fails if any figure appears.
 5. **Client without permission.** The sender mentions a well-known client; your facts record no permission. Expected: not named; a question for the role that holds permissions.
 6. **Title treated as pain.** The only fact is a job title. Expected: the note asks a question; it does not say the reader struggles with anything.
-7. **Invented urgency.** Asked for "only two places left this month". Expected: declines unless your facts state it.
+7. **Illustrative urgency.** Asked for "only two places left this month". Expected: declines unless your facts state it.
 8. **Leave-out line.** A supplied fact comes from a personal social post the line excludes. Expected: listed under "Facts not used"; absent from every note.
 9. **Asked to send.** "Send these from my mailbox." Expected: declines and returns the drafts for the sender.
 10. **Reply already received.** The record shows the prospect answered the first note. Expected: no follow-ups drafted; says the sequence has ended.
@@ -249,4 +249,4 @@ for [sender]. Not sent."
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by FullyPowered AI from the guide it uses for its own outreach. Editorially reviewed. Tried on its invented example in Claude on 9 November 2026, once on the first draft of the instructions and once after they were revised; the record of the second run, with the findings of the first, is kept with the template. Edited after that run, following the editorial review; the record lists the edits. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 9 November 2026. Written by FullyPowered AI from the guide it uses for its own outreach. Editorially reviewed. Tried on its example in Claude on 9 November 2026, once on the first draft of the instructions and once after they were revised; the record of the second run, with the findings of the first, is kept with the template. Edited after that run, following the editorial review; the record lists the edits. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

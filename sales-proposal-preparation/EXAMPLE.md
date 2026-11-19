@@ -1,6 +1,6 @@
-# Sales proposal preparation: an invented example
+# Sales proposal preparation: an example
 
-*Illustrative example with invented data.* An invented 80-person managed IT services company answers RFP 26-117 from Buyer A, an invented 300-person professional-services firm.
+*Illustrative example with sample data.* An illustrative 80-person managed IT services company answers RFP 26-117 from Buyer A, an illustrative 300-person professional-services firm.
 
 ```
 RFP 26-117, section 6.2 (input)

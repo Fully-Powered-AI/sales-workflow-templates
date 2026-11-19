@@ -8,7 +8,7 @@ Check a referral, reseller or alliance partner's own customers, the type the evi
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/channel-partner-fit-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-channel-partner-fit-review&from=gh-sales-channel-partner-fit-review)*
@@ -52,7 +52,7 @@ One review in a fixed order:
 
 A good review lets you answer the partner in one meeting, knowing what you would agree to and why.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -79,7 +79,7 @@ It sits beside [Referral programme design](https://fullypowered.ai/workflows/ref
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026 by a model that did not write it. After an independent review the same day, the example was corrected so that its referral figures follow the template's own rule for marketing money, the template was made more exact about rounding, how sellers and a customer's market are confirmed, and the order of the questions, and it was tried again on the example. That second run was made by the model that wrote the revision, so it is not independent. A second independent review that day found eight minor points; the template was made exact on how to record a customer who could not be reached, a type the organization does not offer, a written commitment from one person and the partner's named contact, and it was tried a third time on the example by the model that made those changes, so that run is not independent either. The record of the third run, with what the earlier runs found and what was changed after each, is published with the template. It has not yet been tested in a client environment, or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its example in Claude on 10 November 2026 by a model that did not write it. After an independent review the same day, the example was corrected so that its referral figures follow the template's own rule for marketing money, the template was made more exact about rounding, how sellers and a customer's market are confirmed, and the order of the questions, and it was tried again on the example. That second run was made by the model that wrote the revision, so it is not independent. A second independent review that day found eight minor points; the template was made exact on how to record a customer who could not be reached, a type the organization does not offer, a written commitment from one person and the partner's named contact, and it was tried a third time on the example by the model that made those changes, so that run is not independent either. The record of the third run, with what the earlier runs found and what was changed after each, is published with the template. It has not yet been tested in a client environment, or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three past approaches your founder remembers well, plus hard cases written in advance, each with its expected behavior: a partner that names customers you already have, a claim nobody has confirmed, an ask that sits above the range, a partner that gives no expected volume, agreement terms tucked into the application. Finance checks every figure before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-channel-partner-fit-review&from=gh-sales-channel-partner-fit-review) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-channel-partner-fit-review&from=gh-sales-channel-partner-fit-review) shows the record.
 
@@ -87,13 +87,13 @@ Testing in your environment means running it on two or three past approaches you
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

@@ -1,6 +1,6 @@
-# Win-loss review: an invented example
+# Win-loss review: an example
 
-*Illustrative example with invented data.* The company, its accounts, its competitors, its people, the deals, the dates and the amounts below are all invented. The seller is an invented 45-person company that designs and installs pallet racking and shelving for warehouses. Its sales team is a sales lead, three account executives and a sales coordinator who keeps the deal record. First come the inputs the sales lead supplied, in full, then the review the workflow template returned.
+*Illustrative example with sample data.* The company, its accounts, its competitors, its people, the deals, the dates and the amounts below are all illustrative. The seller is an illustrative 45-person company that designs and installs pallet racking and shelving for warehouses. Its sales team is a sales lead, three account executives and a sales coordinator who keeps the deal record. First come the inputs the sales lead supplied, in full, then the review the workflow template returned.
 
 ## The inputs
 

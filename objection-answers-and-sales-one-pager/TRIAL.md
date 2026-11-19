@@ -1,4 +1,4 @@
-# Objection answers and sales one-pager: one trial on its invented example
+# Objection answers and sales one-pager: one trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Fable 5.2
@@ -6,7 +6,7 @@
 - **Template version:** 0.1.0
 - **Runs:** the run recorded here is the last of three made the same day. The two before it, and what each changed, are summarised at the end. The template was edited after this run and has not been run again; the changes are listed at the end.
 
-This is a record of one run. The inputs are the invented example published with this workflow template: Quillhaven Fleet Care, Brambleside Provisions, Dana and every fact, figure and quotation in them are invented. No client data was used, nothing was sent, and no one was contacted. One run on an invented example shows how the instructions behave once; it is not a test in anyone's working environment.
+This is a record of one run. The inputs are the example published with this workflow template: Quillhaven Fleet Care, Brambleside Provisions, Dana and every fact, figure and quotation in them are illustrative. No client data was used, nothing was sent, and no one was contacted. One run on an example shows how the instructions behave once; it is not a test in anyone's working environment.
 
 ## How the run was made
 

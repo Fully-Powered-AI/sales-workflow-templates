@@ -4,7 +4,7 @@
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-09
 
-The inputs are the invented example in [example.md](example.md): the facts note, this week's export of 9 November 2026 and last week's export of 2 November 2026. No client data was used. The run followed the template's instruction block and output format, took only the three inputs from the example, produced the review, and only then compared it with the example's published output and the reviewer checklist. It was one attempt with no second try.
+The inputs are the example in [example.md](example.md): the facts note, this week's export of 9 November 2026 and last week's export of 2 November 2026. No client data was used. The run followed the template's instruction block and output format, took only the three inputs from the example, produced the review, and only then compared it with the example's published output and the reviewer checklist. It was one attempt with no second try.
 
 This record replaces an earlier one from the same day. That earlier run used Claude Sonnet 5.5 on the first version of the instructions. It matched the published example in every figure but raised eleven points where the instructions were unclear. The instructions were then revised: what counts as a gap in the export, the order of each "Where to look first" item, rules that had been only in the procedure (the gap between the exports, an unclear date order, "none last week", "target already met", "nothing needs a first look this week"), whether the review date is in the baseline window, rounding, two-part owner questions, the currency, and a "Defaults used" slot in the header. The example's "Gaps in the export" line and header were brought into line. This run is on the revised version.
 

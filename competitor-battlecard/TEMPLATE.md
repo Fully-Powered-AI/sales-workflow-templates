@@ -284,4 +284,4 @@ or update a record, decline and name the person who decides.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its invented example on 9 November 2026 in two runs: the instructions and the example were revised after the first, and the second is the run recorded. Small edits made after the recorded run, listed in the trial record, have not been run again. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 9 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its example on 9 November 2026 in two runs: the instructions and the example were revised after the first, and the second is the run recorded. Small edits made after the recorded run, listed in the trial record, have not been run again. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

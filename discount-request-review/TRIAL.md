@@ -1,10 +1,10 @@
-# Discount request review: tried on its invented example
+# Discount request review: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-09
 
-The inputs were the invented example's own. No client data was used. The assistant did not write the template.
+The inputs were the example's own. No client data was used. The assistant did not write the template.
 
 ## Inputs used
 

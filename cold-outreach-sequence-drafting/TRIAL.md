@@ -1,11 +1,11 @@
-# Cold outreach sequence drafting: one trial on its invented example
+# Cold outreach sequence drafting: one trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Fable 5.2
 - **Date:** 2026-11-09
 - **Template version:** 0.1.0
 
-This is a record of one run of the template as it stood when the run was made; the edits made to the template since are listed below, under "Edited after this run". The inputs are the invented example published with this workflow template: Firm N, Prospect P, Dana, Lee, the job posting and every fact in them are invented. No client data was used, nothing was sent, and no one was contacted. One run on an invented example shows how the instructions behave once; it is not a test in anyone's working environment.
+This is a record of one run of the template as it stood when the run was made; the edits made to the template since are listed below, under "Edited after this run". The inputs are the example published with this workflow template: Firm N, Prospect P, Dana, Lee, the job posting and every fact in them are illustrative. No client data was used, nothing was sent, and no one was contacted. One run on an example shows how the instructions behave once; it is not a test in anyone's working environment.
 
 An earlier run the same day, on the first draft of the instructions, found eight places where the instructions had to be guessed at. The instructions were changed, and the run recorded here was made on the changed text. Both are described below: first the run, then the earlier findings and the change each led to.
 

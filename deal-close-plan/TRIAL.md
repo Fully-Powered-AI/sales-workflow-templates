@@ -1,10 +1,10 @@
-# Deal close plan: tried once on its invented example
+# Deal close plan: tried once on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-This was one run of the workflow template on its own invented example. The inputs are the invented ones in [the example](example.md); no client data was used. The run was made by an AI assistant that did not write the template. It was given the template's instruction block and output format and the example's five inputs (deal facts, deal record row, quote, buyer notes, approval steps), and it did not look at the example's output until its own was finished. Nothing was sent, shared or recorded. This is a record of one run, not a test in a client environment.
+This was one run of the workflow template on its own example. The inputs are the sample ones in [the example](example.md); no client data was used. The run was made by an AI assistant that did not write the template. It was given the template's instruction block and output format and the example's five inputs (deal facts, deal record row, quote, buyer notes, approval steps), and it did not look at the example's output until its own was finished. Nothing was sent, shared or recorded. This is a record of one run, not a test in a client environment.
 
 ## What came out
 

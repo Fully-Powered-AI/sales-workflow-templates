@@ -1,6 +1,6 @@
-# Stalled-deal review: an invented example
+# Stalled-deal review: an example
 
-*Illustrative example with invented data.* The company, its accounts, its people, the deals, the dates and the amounts below are all invented. The seller is an invented 35-person company that sells maintenance-planning software to manufacturers. Its sales team is a sales lead, two account executives and a solutions engineer. First come the inputs the sales lead supplied, in full except the previous review, of which only the part the template reads is shown; then the review the workflow template returned.
+*Illustrative example with sample data.* The company, its accounts, its people, the deals, the dates and the amounts below are all illustrative. The seller is an illustrative 35-person company that sells maintenance-planning software to manufacturers. Its sales team is a sales lead, two account executives and a solutions engineer. First come the inputs the sales lead supplied, in full except the previous review, of which only the part the template reads is shown; then the review the workflow template returned.
 
 ## The inputs
 

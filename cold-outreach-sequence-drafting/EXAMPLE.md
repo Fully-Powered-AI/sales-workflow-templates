@@ -1,6 +1,6 @@
-# Cold outreach sequence drafting: an invented example
+# Cold outreach sequence drafting: an example
 
-*Illustrative example with invented data.* The company, the prospect, the people, the job posting and every fact below are invented. Firm N is an invented six-person bookkeeping firm; Prospect P is an invented 45-person heating and cooling contractor. First come the inputs the founder supplied, in full, then the sequence the workflow template returned.
+*Illustrative example with sample data.* The company, the prospect, the people, the job posting and every fact below are illustrative. Firm N is an illustrative six-person bookkeeping firm; Prospect P is an illustrative 45-person heating and cooling contractor. First come the inputs the founder supplied, in full, then the sequence the workflow template returned.
 
 ## The inputs
 

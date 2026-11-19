@@ -242,4 +242,4 @@ salesperson, decline and name the role that decides.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its invented example in Claude on 9 November 2026, revised after that run's findings and tried again the same day; the record of the second run is published with the template. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 9 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its example in Claude on 9 November 2026, revised after that run's findings and tried again the same day; the record of the second run is published with the template. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

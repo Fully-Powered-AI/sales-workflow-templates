@@ -1,6 +1,6 @@
-# Sales call preparation brief: an invented example
+# Sales call preparation brief: an example
 
-*Illustrative example with invented data.* Fernhollow Dispatch, Pinewater Facilities Group and everyone in this example are invented. Fernhollow is a 40-person company that sells scheduling software for field-service teams. Marisol, its account executive, has a third call with Pinewater on Thursday 19 November 2026 and prepares for it on Monday 16 November.
+*Illustrative example with sample data.* Fernhollow Dispatch, Pinewater Facilities Group and everyone in this example are illustrative. Fernhollow is a 40-person company that sells scheduling software for field-service teams. Marisol, its account executive, has a third call with Pinewater on Thursday 19 November 2026 and prepares for it on Monday 16 November.
 
 The inputs come first, complete, exactly as Marisol supplied them. The brief follows.
 

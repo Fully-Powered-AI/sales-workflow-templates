@@ -284,4 +284,4 @@ what you took for granted; leave out the one-pager unless asked.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by FullyPowered AI. Tried on its invented example; the record is published with it. Not yet tested in a client environment.
+- 0.1.0, 9 November 2026. Written by FullyPowered AI. Tried on its example; the record is published with it. Not yet tested in a client environment.

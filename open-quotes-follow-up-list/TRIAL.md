@@ -1,10 +1,10 @@
-# Open quotes follow-up list: tried on its invented example
+# Open quotes follow-up list: tried on its example
 
 - **Product:** Claude, run in Claude Code
 
 Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5). Date: 2026-11-19.
 
-The inputs are the invented example in `public/example.md` (Company Z, its follow-up rules and today's date, and the 14-row quote status export). No client data was used. The model was given the complete template and only the inputs from the example, and it produced the list before the example's own list was read. It was run once, with no repeat and no edits to the output.
+The inputs are the example in `public/example.md` (Company Z, its follow-up rules and today's date, and the 14-row quote status export). No client data was used. The model was given the complete template and only the inputs from the example, and it produced the list before the example's own list was read. It was run once, with no repeat and no edits to the output.
 
 ## Inputs used
 
@@ -135,7 +135,7 @@ Nothing has been sent, and no price, discount or validity date has been changed.
   - The CAD block had no blank line before it and the line "Totals are never added across currencies." was not printed; the example has both.
   - The wording of the two questions differed (the run asked "What is the correct status?" and added "(last viewed 13 November 2026)" to the second).
   - The Q-1005 date, above.
-- **Facts not in the inputs:** none, in either output. Every name, date, amount and status in both lists is in the invented inputs. The only derived dates (window end, days ago, next due) are counted from the inputs.
+- **Facts not in the inputs:** none, in either output. Every name, date, amount and status in both lists is in the sample inputs. The only derived dates (window end, days ago, next due) are counted from the inputs.
 - **Where the instructions left room to guess:**
   - The output line "exported [date]" has no input. The template says the export is taken that morning but never asks for its date. The run used today's date, which the example's heading also states.
   - "Rules: ... Defaults used: [list / none]" does not say whether a rule given that equals a default should be listed. The input section says it counts as supplied, so "none" was right, but the reader has to join two parts of the template.
@@ -147,4 +147,4 @@ Nothing has been sent, and no price, discount or validity date has been changed.
   - Placeholders such as [your urgent window] remain in the procedure text; the assistant block uses the defaults and the supplied rules instead. This did not cause a problem.
 - **Edited after this run:** the example and the template were changed after the run recorded above (the example now reads "the sales lead", "Not drafted: on the do-not-contact list (...)" and "QUESTIONS FOR THE SALES LEAD"; step 8 of the template now re-checks every date, which addresses the Q-1005 slip; the group numbering mentioned below was removed; a stop on an export older than today and two lines in the instruction block were added). The wording differences and the notes on the template's earlier text recorded here describe the run as it was, and the edited template has not been run again.
 - **Not tested here:** the acceptance tests (stops on a blank amount or a renamed header, declining to offer a discount or forecast) were not exercised, because the example's inputs trigger none of them.
-- **Limits of this trial:** one run, one model, one invented set of inputs, in a single session with the template in view. It shows the instructions can be followed to a complete and correct list, with the date slip above. It is not a test with a real export or a real quoting tool.
+- **Limits of this trial:** one run, one model, one sample set of inputs, in a single session with the template in view. It shows the instructions can be followed to a complete and correct list, with the date slip above. It is not a test with a real export or a real quoting tool.

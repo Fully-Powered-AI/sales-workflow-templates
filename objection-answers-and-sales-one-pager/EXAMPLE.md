@@ -1,6 +1,6 @@
-# Objection answers and sales one-pager: an invented example
+# Objection answers and sales one-pager: an example
 
-*Illustrative example with invented data.* Quillhaven Fleet Care, Brambleside Provisions and everyone in this example are invented. Quillhaven is a 35-person company that maintains delivery-van fleets. Dana, its account executive, has a second call with Brambleside on Thursday 12 November 2026 and prepares for it on Monday 9 November.
+*Illustrative example with sample data.* Quillhaven Fleet Care, Brambleside Provisions and everyone in this example are illustrative. Quillhaven is a 35-person company that maintains delivery-van fleets. Dana, its account executive, has a second call with Brambleside on Thursday 12 November 2026 and prepares for it on Monday 9 November.
 
 The inputs come first, complete, exactly as Dana supplied them. The call pack follows. It is what the template returned when it was tried on these inputs, set out here with headings. Two short passages were taken out afterwards, and the trial record published with this template quotes both. The record also lists the smaller places where the pack departs from the instructions; those are left in here as they came out.
 

@@ -5,13 +5,13 @@
 - **Date:** 2026-11-09
 - **Template version:** 0.1.0
 
-This is a record of the second run of the workflow template on its own invented example. The company, the deals, the people and the dates are invented, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
+This is a record of the second run of the workflow template on its own example. The company, the deals, the people and the dates are illustrative, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
 
 2026-11-09: after the run recorded here, step 1 of the instruction block was edited so that only an open deal whose stage is not on the list goes under "Not read", as the long procedure already said; read literally, the earlier wording would have put D-107 (stage "Closed lost") under "Not read". The run followed the intended reading. The output format was not changed, and the run was not repeated.
 
 An earlier run the same day, by a different model, showed where the instructions left room to guess. The instructions, the output format and the example were revised, and the run recorded here was made on the revised instructions. What the earlier run found, and what was changed, is at the end.
 
-The inputs were the invented example in `public/example.md`: the sales lead's facts and stages, the nine-row deal export, the five deal notes and the excerpt of the previous review. The model followed the fenced instruction block and the output format. This run was not blind: it was made by the same model session that revised the template, after it had read the example's earlier published output and the earlier run's record. Read it as a check that the revised rules can be followed to a complete output on this example, not as an independent reading.
+The inputs were the example in `public/example.md`: the sales lead's facts and stages, the nine-row deal export, the five deal notes and the excerpt of the previous review. The model followed the fenced instruction block and the output format. This run was not blind: it was made by the same model session that revised the template, after it had read the example's earlier published output and the earlier run's record. Read it as a check that the revised rules can be followed to a complete output on this example, not as an independent reading.
 
 ## What came out
 
@@ -94,7 +94,7 @@ Prepared from the deal export of 2 November 2026 and the notes supplied. Nothing
   1. Whether "Price" and "the budget is going into a new press line" disagree is a judgment; this run treated them as at odds, as acceptance test 9 implies.
   2. The D-105 note says "the 10th" with no month. The review quotes it as written and writes nothing as "unknown" for it, so under the gaps rule it is not a gap.
   3. D-105's export names the account executive as the step's owner although the step is the buyer's. The kind follows the note and the step's own words; the owner is shown as recorded.
-- This was one run by one model on one invented example, made by the session that revised the template. It shows the revised instructions can be followed to a complete output here; it is not a test in a client environment.
+- This was one run by one model on one example, made by the session that revised the template. It shows the revised instructions can be followed to a complete output here; it is not a test in a client environment.
 
 ## The earlier run, and what was changed
 

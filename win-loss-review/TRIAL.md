@@ -1,11 +1,11 @@
-# Win-loss review: trial on its invented example
+# Win-loss review: trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-09
 - **Template version:** 0.1.0
 
-This is a record of one run of the workflow template on its own invented example. The company, its accounts, its competitors, the deals, the dates and the amounts are invented, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
+This is a record of one run of the workflow template on its own example. The company, its accounts, its competitors, the deals, the dates and the amounts are illustrative, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
 
 This is the second run on the same example. An earlier run the same day, by a different model, showed that two rules at the heart of the template could be read two ways; steps 9 and 10 of the procedure and of the pasted instructions were rewritten, the example's findings were redone on the new rules, and the run recorded here was made on the revised instructions. What the earlier run found, and what was changed, is at the end.
 
@@ -150,4 +150,4 @@ Changed on 9 November 2026 after the independent review, and not run again:
 - The pasted instructions now list the blanks that go under "Gaps in the record" and say a blank competitor is not a gap. This settles the third guess point.
 - The pasted instructions now define start recording as a field the review could not count, from now on; say "could not look: no [column] in the export" when the person says a column does not exist; allow a run on fewer than ten deals only if the person insists, with every finding thin; and have the headline name the two firm findings with the most deals when there are more. The procedure already said each of these.
 
-**Limits of this record.** It is one run, by one model, on an invented example whose instructions that same model had just revised. It shows that the revised instructions can be followed to the intended findings on these inputs. It says nothing about other exports, other models, or a client's data.
+**Limits of this record.** It is one run, by one model, on an example whose instructions that same model had just revised. It shows that the revised instructions can be followed to the intended findings on these inputs. It says nothing about other exports, other models, or a client's data.

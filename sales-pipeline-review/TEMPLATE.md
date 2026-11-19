@@ -141,7 +141,7 @@ Prepared from the exports of [date] and [date / last week's export not supplied]
 
 ## Acceptance tests
 
-Proposed tests. None has been run as a recorded acceptance test. One trial on the invented example, recorded with the template, covers test 1 and, because the example holds those cases, tests 3, 4, 5, 6 and 9. Tests 2, 7, 8, 10 and 11 have not been run.
+Proposed tests. None has been run as a recorded acceptance test. One trial on the example, recorded with the template, covers test 1 and, because the example holds those cases, tests 3, 4, 5, 6 and 9. Tests 2, 7, 8, 10 and 11 have not been run.
 
 1. **Ordinary week.** Nine open deals, both exports, weights and a target. Expected: every section filled; stage values sum to the total; the bridge balances.
 2. **Header does not match.** This week's export has `Deal Value` where `amount` is expected. Expected: stops, lists expected and found headers, asks which column holds `amount`; reads nothing.
@@ -272,4 +272,4 @@ salesperson, decline and name the role that decides.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by FullyPowered AI. Tried on its invented example in Claude on 9 November 2026: a first run raised points where the instructions were unclear, the instructions were revised, and the record published with the template describes a second run on the revised version. After review, three sentences of the instruction block were aligned with the procedure (a missing last week's export, the full "Not read" list, a new deal with a blank amount in the bridge); the run was not repeated. Not yet tested in a client environment.
+- 0.1.0, 9 November 2026. Written by FullyPowered AI. Tried on its example in Claude on 9 November 2026: a first run raised points where the instructions were unclear, the instructions were revised, and the record published with the template describes a second run on the revised version. After review, three sentences of the instruction block were aligned with the procedure (a missing last week's export, the full "Not read" list, a new deal with a blank amount in the bridge); the run was not repeated. Not yet tested in a client environment.

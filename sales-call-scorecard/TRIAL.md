@@ -5,7 +5,7 @@
 - **Date:** 2026-11-09
 - **Template version:** 0.1.0
 
-This run used only the invented inputs from the example (`public/example.md`, section "The inputs": the call facts, the seven criteria, the people list and the transcript). No client data was used. The run followed the template's instruction block and output format. The model did not write the template, and it read the example's output only after producing its own.
+This run used only the sample inputs from the example (`public/example.md`, section "The inputs": the call facts, the seven criteria, the people list and the transcript). No client data was used. The run followed the template's instruction block and output format. The model did not write the template, and it read the example's output only after producing its own.
 
 ## What came out
 

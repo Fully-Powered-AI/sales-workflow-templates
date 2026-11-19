@@ -8,7 +8,7 @@ A weekly list from your quote status export: quotes never viewed, unanswered, ne
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/open-quotes-follow-up-list/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-open-quotes-follow-up-list&from=gh-sales-open-quotes-follow-up-list)*
@@ -39,7 +39,7 @@ It reads the status export only. It does not open the quotes themselves, and it 
 
 One list in a fixed order. At the top, a count that places every row of the export in exactly one group, and the quoted amounts for each group by currency, adding up to the export's total. Then each owner's quotes, grouped as expired with no decision, expiring soon, viewed with no answer, sent and never viewed, and drafts not sent. Then the follow-up drafts, numbered, each addressed to the contact on the quote and signed by its owner, for the owner to approve and send. Then the open quotes not yet due, with the date each one will be; the questions about rows that do not make sense; and the quotes already accepted or declined. A section with nothing in it says so.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -59,7 +59,7 @@ Match the column headers to your export, or rename the columns once. Map your to
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 19 November 2026. It was tried on its invented example on 19 November 2026 in one run, published with it. Edits after that run, to the date check, the export date, the totals line and the wording of "Not drafted:", have not been run again. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 19 November 2026. It was tried on its example on 19 November 2026 in one run, published with it. Edits after that run, to the date check, the export date, the totals line and the wording of "Not drafted:", have not been run again. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three past exports your sales lead remembers well, with hard cases written in advance: a renamed column, a quote shown as sent with a view recorded, a quote past its valid-until date that the tool still shows as viewed, a customer the owner is calling instead, two currencies in one export. The person who runs it checks every line against the quoting tool before any follow-up goes out. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-open-quotes-follow-up-list&from=gh-sales-open-quotes-follow-up-list) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=sales-open-quotes-follow-up-list&from=gh-sales-open-quotes-follow-up-list) describes the record we keep.
 
@@ -67,13 +67,13 @@ Testing in your environment means running it on two or three past exports your s
 - Sources and rights reviewed.
 - Editorially reviewed on 19 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 19 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 19 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

@@ -190,7 +190,7 @@ if anyone, is approached, and how.
 
 ## Acceptance tests
 
-Proposed tests. None has been run as a test. The trial run published with this template used inputs of the shape in test 1 (the invented example), and its record says how far it went.
+Proposed tests. None has been run as a test. The trial run published with this template used inputs of the shape in test 1 (the example), and its record says how far it went.
 
 1. **Complete inputs.** Facts, a request, a seven-row export with matching headers and ten page notes. Expected: every firm graded with its rule, confidence and next step; duplicates merged; the list check adds up.
 2. **Header mismatch.** The export uses `Headcount` instead of `Employees`. Expected: stops and asks which default it stands for; no list is drafted.
@@ -335,4 +335,4 @@ the line that says nobody has been contacted.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by FullyPowered AI from the working guide it uses to build its own prospect lists, with credited methods from three MIT-licensed sources. Editorially reviewed. Tried on its invented example on 9 November 2026 in one run, whose record is published with it. Edits made after that run have not been run again; the trial record lists them: the early-adopter sign and the confidence rule stated more exactly, the next step for a Watch firm with a hard filter not observed, the Coverage and do-not-contact lines in the output format, and the example brought into line with the instructions; then, after a further review, the not-observed label, the Not now rule, the sponsor source, the one-sentence line and the soft-signal reasons. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 9 November 2026. Written by FullyPowered AI from the working guide it uses to build its own prospect lists, with credited methods from three MIT-licensed sources. Editorially reviewed. Tried on its example on 9 November 2026 in one run, whose record is published with it. Edits made after that run have not been run again; the trial record lists them: the early-adopter sign and the confidence rule stated more exactly, the next step for a Watch firm with a hard filter not observed, the Coverage and do-not-contact lines in the output format, and the example brought into line with the instructions; then, after a further review, the not-observed label, the Not now rule, the sponsor source, the one-sentence line and the soft-signal reasons. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

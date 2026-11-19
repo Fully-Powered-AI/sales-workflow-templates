@@ -1,6 +1,6 @@
-# Open quotes follow-up list: an invented example
+# Open quotes follow-up list: an example
 
-*Illustrative example with invented data.* Company Z is an invented business that makes and installs commercial signs. Its sales lead runs the list every Monday. The two quote owners, Rae and Tomas, and every customer contact are invented first names; the customers appear as letters. Every row, date and amount below is invented.
+*Illustrative example with sample data.* Company Z is an illustrative business that makes and installs commercial signs. Its sales lead runs the list every Monday. The two quote owners, Rae and Tomas, and every customer contact are illustrative first names; the customers appear as letters. Every row, date and amount below is illustrative.
 
 The inputs come first, in full, so the workflow template can be run on them. The list follows.
 

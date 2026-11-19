@@ -247,4 +247,4 @@ document or contact anyone else, decline and say who decides.
 
 ## Version notes
 
-- 0.1.0, 19 November 2026. Written by FullyPowered AI as original work. Tried on its invented example on 19 November 2026 in one run, published with it; edits after that run, to the date check, the export date, the totals line and the "Not drafted:" wording, and then to the stop on an export older than today, the draft-past-validity note and the instruction block's business-name and credentials lines, have not been run again. Not yet tested in a client environment.
+- 0.1.0, 19 November 2026. Written by FullyPowered AI as original work. Tried on its example on 19 November 2026 in one run, published with it; edits after that run, to the date check, the export date, the totals line and the "Not drafted:" wording, and then to the stop on an export older than today, the draft-past-validity note and the instruction block's business-name and credentials lines, have not been run again. Not yet tested in a client environment.

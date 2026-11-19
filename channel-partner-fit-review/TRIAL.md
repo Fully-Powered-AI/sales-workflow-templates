@@ -1,11 +1,11 @@
-# Channel partner fit review: tried on its invented example
+# Channel partner fit review: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID `claude-opus-5-5`)
 - **Date:** 2026-11-10
 - **Template version:** 0.1.0
 
-This is a record of runs of the workflow template on its own invented example. The seller, Partner A, its customers, the people, the figures and the dates are all invented, and no client data was used. It shows what the template produced on one set of inputs. It is not a test in any company's environment.
+This is a record of runs of the workflow template on its own example. The seller, Partner A, its customers, the people, the figures and the dates are all illustrative, and no client data was used. It shows what the template produced on one set of inputs. It is not a test in any company's environment.
 
 This is the third run on the same example, all on 10 November 2026. The first run, by a different model that did not write the template, showed where the instructions left room to guess. After an independent review the template and the example were revised, and a second run was made on the revised instructions by the model that made the revision. A second independent review then raised eight minor points, five of which the second run had itself listed as places where a reader could still have to guess. The procedure, the pasted instructions, the output format and the example's output were revised again in small ways, and the run recorded here was made on those instructions. What the second run observed, what the first run found, and what was changed after each, is at the end.
 
@@ -148,7 +148,7 @@ Prepared on 9 November 2026 for the founder's decision, from the partner's mater
 
 **Facts not in the inputs.** None was found in the output.
 
-**What this run does not show.** The template's acceptance tests are proposed and none was run. One run by the model that revised the template, on one invented example, shows that the revised instructions can be followed to the end and give the published example. It does not show how a fresh reader would take them, and it does not show the template works for a real partner. A run on these instructions by a model that did not revise them has not been made.
+**What this run does not show.** The template's acceptance tests are proposed and none was run. One run by the model that revised the template, on one example, shows that the revised instructions can be followed to the end and give the published example. It does not show how a fresh reader would take them, and it does not show the template works for a real partner. A run on these instructions by a model that did not revise them has not been made.
 
 ## The second run, and what was changed after it
 
@@ -174,7 +174,7 @@ Its observations, as recorded, were these. "The output above" in them means its 
 
 **Facts not in the inputs.** None was found in the output.
 
-**What this run does not show.** The template's acceptance tests are proposed and none was run. One run by the model that revised the template, on one invented example, shows that the revised instructions can be followed to the end and give the published example. It does not show the template works for a real partner.
+**What this run does not show.** The template's acceptance tests are proposed and none was run. One run by the model that revised the template, on one example, shows that the revised instructions can be followed to the end and give the published example. It does not show the template works for a real partner.
 
 **What was changed after it.** A second independent review raised eight minor points. In response:
 1. The output format's evidence line gained "not confirmed: attempt, date" for a claim stated by the partner that an attempt failed to confirm, and the procedure and the pasted instructions say to record it. The example's lines for Accounts J and K now carry it.

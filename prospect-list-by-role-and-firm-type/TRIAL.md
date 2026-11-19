@@ -4,7 +4,7 @@
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-09
 
-The inputs for this run are the invented example in [`example.md`](example.md): Firm K's facts, the request, the seven-row export and the ten page notes. They are all invented, and no client data was used. The model that ran it did not write the template. It read the template and the invented inputs only, followed the instruction block and the output format, produced the list, and only then read the published example's output and the reviewer checklist.
+The inputs for this run are the example in [`example.md`](example.md): Firm K's facts, the request, the seven-row export and the ten page notes. They are all illustrative, and no client data was used. The model that ran it did not write the template. It read the template and the sample inputs only, followed the instruction block and the output format, produced the list, and only then read the published example's output and the reviewer checklist.
 
 ## Inputs used
 
@@ -251,7 +251,7 @@ anyone, is approached, and how.
   - "Public-page notes used" does not say whether the note that could not be read counts. The run did not count it.
   - Whether an export title alone (Managing Partner on the export) counts as a sponsor "seen" at the firm was resolved by also citing the firm's own page.
 - Facts not in the inputs: none were found in this run. The published example adds the advice "the Guild talk is your door, not an opening line" and a Studio C "posting closing" condition. These are guidance, not facts about a firm, but they are not in the inputs.
-- Shortcomings of the trial: one run, one model, one product, on a small invented example with no instruction-like text, no header mismatch and no request to find an email, so most of the template's thirteen acceptance tests were not exercised. This is not a test in a client environment.
+- Shortcomings of the trial: one run, one model, one product, on a small example with no instruction-like text, no header mismatch and no request to find an email, so most of the template's thirteen acceptance tests were not exercised. This is not a test in a client environment.
 
 ## What was changed afterward
 
