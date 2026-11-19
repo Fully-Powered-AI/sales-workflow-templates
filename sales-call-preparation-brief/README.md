@@ -4,6 +4,8 @@ Your salesperson, partner or account manager walks into every meeting with a bri
 
 *Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/sales-call-preparation-brief/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/sales-call-preparation-brief/?from=gh-sales-sales-call-preparation-brief)
+
 ## The outcome
 
 Nobody opens a meeting by asking the buyer to repeat themselves. The person leading the call knows who is new, which promise is still unkept on either side, which question the buyer asked that nobody answered, and the one result they want from this meeting.

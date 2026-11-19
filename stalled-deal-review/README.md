@@ -4,6 +4,8 @@ Your sales lead sees, from the record alone, which open deals have stopped movin
 
 *Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/stalled-deal-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/stalled-deal-review/?from=gh-sales-stalled-deal-review)
+
 ## The outcome
 
 Every week the sales lead knows exactly which deals have gone quiet and why. Each stalled deal is read against the exit you wrote for its stage, so the review names the one thing still missing instead of a vague sense that a deal feels cold. It says whose move it is: the buyer's, yours, or a colleague's inside the company, such as a finance director who has not yet approved the terms. And it hands you one question that would get the deal moving again, addressed to the person who can answer it.

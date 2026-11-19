@@ -4,6 +4,8 @@ Before a price below list goes to a customer, whoever approves it gets one page:
 
 *Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/discount-request-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/discount-request-review/?from=gh-sales-discount-request-review)
+
 ## The outcome
 
 Every discount request arrives on the approver's desk in the same shape, already checked against the rules your company wrote. The page shows the real size of the ask, line by line and for the whole deal, and what it takes out of your margin: always a bigger share of the margin than the headline percentage, since delivery costs the same at any price. Each clause of your policy is marked as met, missed or impossible to check, so an exception is visible at a glance instead of buried in an email thread.

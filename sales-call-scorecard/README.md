@@ -4,6 +4,8 @@ After a sales call, your sales lead sees how it went against your team's own cri
 
 *Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/sales-call-scorecard/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/sales-call-scorecard/?from=gh-sales-sales-call-scorecard)
+
 ## The outcome
 
 Coaching starts from what was said on the call rather than from memory or impression. For every criterion your team has written down, the sales lead sees whether the call showed it, showed part of it, missed it, or cannot be judged from what was recorded, with the exact words behind each mark and the time they were said.

@@ -4,6 +4,8 @@ Your salespeople get one page on one named competitor: where it is strong, where
 
 *Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/competitor-battlecard/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/competitor-battlecard/?from=gh-sales-competitor-battlecard)
+
 ## The outcome
 
 Every salesperson walks into a competitive deal with the same honest picture of the other side. The card says what the competitor tells buyers and what it charges, then sets out where it is genuinely strong before it gets to where you win. Each of your advantages comes with the proof you are allowed to share and a question that puts the difference in front of the buyer.

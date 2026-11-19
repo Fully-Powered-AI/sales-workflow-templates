@@ -4,6 +4,8 @@ Your outreach reads like you wrote it on your best day: a first note and its fol
 
 *Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/cold-outreach-sequence-drafting/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/cold-outreach-sequence-drafting/?from=gh-sales-cold-outreach-sequence-drafting)
+
 ## The outcome
 
 A stranger opens your note and sees their own work in the first line, understands what you do in the second, and has one small thing to answer. The follow-ups are already written, each with something new to say, and the last one closes politely and means it.

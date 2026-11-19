@@ -4,6 +4,8 @@ Before anyone writes a first note, you know which kinds of firm and which roles 
 
 *Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/prospect-list-by-role-and-firm-type/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/prospect-list-by-role-and-firm-type/?from=gh-prospect-list-by-role-and-firm-type)
+
 ## The outcome
 
 Your outreach starts from a short list you can defend line by line. For each kind of firm you sell to, you see the role to reach, the person who would sponsor the work, and the firms worth your effort now, with the strongest at the top.

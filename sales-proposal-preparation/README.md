@@ -4,6 +4,8 @@ Your account executive answers an RFP in minutes, not weeks, with a proposal dra
 
 *Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/sales-proposal-preparation/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/sales-proposal-preparation/?from=gh-sales-sales-proposal-preparation)
+
 ## The outcome
 
 The buyer’s request arrives and the proposal pack is ready the same day: an account brief, a draft in the buyer’s format, an evidence checklist and the open questions. Your reviewers check sources instead of rewriting paragraphs.

@@ -4,6 +4,8 @@ Before anyone starts on a response, your bid manager sees every requirement in t
 
 *Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/bid-or-no-bid-and-rfp-response-plan/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/bid-or-no-bid-and-rfp-response-plan/?from=gh-bid-or-no-bid-and-rfp-response-plan)
+
 ## The outcome
 
 The decision to bid is made on the first day or two, on facts, by the person whose call it is. They see the request as a list: what the buyer insists on, what earns points, what is merely welcome, and which items your own licences, certificates, case summaries and references actually prove. A must-have you cannot meet shows up before anyone spends a week writing, not the night before the deadline.

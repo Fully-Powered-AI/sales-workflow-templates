@@ -4,6 +4,8 @@ Each week your sales lead sees the whole open pipeline on one page: value and ag
 
 *Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/sales-pipeline-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/sales-pipeline-review/?from=gh-sales-sales-pipeline-review)
+
 ## The outcome
 
 Your sales lead walks into the week holding the entire pipeline, not just the deals that happen to be loudest. The page shows how much sits in each stage and how long it has been there, which deals came in, moved forward, slipped back, closed or quietly vanished since last week, and a bridge that proves last week's total became this week's.

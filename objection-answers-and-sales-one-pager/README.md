@@ -4,6 +4,8 @@ Walk into the call with an answer for every objection you expect, each with its 
 
 *Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/?from=gh-objection-answers-and-sales-one-pager)
+
 ## The outcome
 
 Before the call you hold a call pack: a quick sheet you can glance at while the buyer is talking, a fuller entry for each objection, and one page the buyer can pass to whoever else decides. Every salesperson on the team answers the hard questions the way your best one does.

@@ -4,6 +4,8 @@ Once a quarter your sales lead sees, from the deals you closed, where the losses
 
 *Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/win-loss-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/win-loss-review/?from=gh-sales-win-loss-review)
+
 ## The outcome
 
 The sales lead plans the next quarter from what the closed deals actually show, instead of from the two losses everyone still remembers. Win rates are laid out by lead source, deal type, segment and size, with the number of deals behind each, so a striking rate built on four deals is visible as exactly that. Every loss is placed at the stage where it ended, and every reason is counted as your record gives it.

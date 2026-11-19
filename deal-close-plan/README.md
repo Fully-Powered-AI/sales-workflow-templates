@@ -4,6 +4,8 @@ Your account executive holds one late-stage deal on two pages: the buyer's case 
 
 *Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/deal-close-plan/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/deal-close-plan/?from=gh-sales-deal-close-plan)
+
 ## The outcome
 
 The deal stops depending on hope and a close date somebody typed in weeks ago. Your account executive walks into the last stretch with the buyer's own argument for buying, in the buyer's own words: what the problem costs them today, what they want to achieve, what each part of your offer does toward it, and plain arithmetic weighing the price against their own numbers. Nothing in it is a benchmark or a borrowed result, so the buyer's champion can carry it into the room with the person who signs and defend every line.

@@ -4,6 +4,8 @@ When a referral, reseller or alliance partner approaches, the founder or head of
 
 *Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/channel-partner-fit-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/channel-partner-fit-review/?from=gh-sales-channel-partner-fit-review)
+
 ## The outcome
 
 A firm offers to sell your product, and the conversation quickly turns to margin, a region of its own and a date to sign. This review gives you the facts before you answer. Every customer the partner names is checked against your own records, so you can see which ones are genuinely new to you, and every claim is marked as confirmed, only stated by the partner, or unknown.
