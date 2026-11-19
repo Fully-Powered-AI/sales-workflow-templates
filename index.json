@@ -60,6 +60,14 @@
       "directory": "https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/"
     },
     {
+      "id": "open-quotes-follow-up-list",
+      "name": "Open quotes follow-up list",
+      "version": "0.1.0",
+      "summary": "Each week the owner, sales lead or estimator gets one list from the quote status export: quotes never viewed, viewed with no answer, close to expiry, expired with no decision, and drafts never sent, by owner, each with a short follow-up draft. Totals are quoted amounts, never a forecast.",
+      "path": "open-quotes-follow-up-list/",
+      "directory": "https://fullypowered.ai/workflows/open-quotes-follow-up-list/"
+    },
+    {
       "id": "prospect-list-by-role-and-firm-type",
       "name": "Prospect list by role and firm type",
       "version": "0.1.0",

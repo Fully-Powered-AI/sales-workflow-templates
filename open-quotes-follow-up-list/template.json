@@ -1,0 +1,47 @@
+{
+  "id": "open-quotes-follow-up-list",
+  "name": "Open quotes follow-up list",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "Each week the owner, sales lead or estimator gets one list from the quote status export: quotes never viewed, viewed with no answer, close to expiry, expired with no decision, and drafts never sent, by owner, each with a short follow-up draft. Totals are quoted amounts, never a forecast.",
+  "directory": "https://fullypowered.ai/workflows/open-quotes-follow-up-list/",
+  "primary_function": "functions/sales",
+  "functions": [
+    "functions/sales"
+  ],
+  "industries": [
+    "industries/construction",
+    "industries/manufacturing",
+    "industries/professional-services",
+    "industries/logistics-and-trade"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "sales-pipeline-review",
+    "deal-close-plan",
+    "sales-proposal-preparation"
+  ],
+  "evidence": {
+    "written_by": "FullyPowered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-19",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-19",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "FullyPowered AI's own original method for a weekly follow-up list of open quotes, read from a quoting tool's status export."
+    }
+  ]
+}
